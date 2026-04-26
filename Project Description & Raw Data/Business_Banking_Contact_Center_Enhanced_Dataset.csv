@@ -1,0 +1,1001 @@
+Date;Consultant_Email;Client_Account_Number;Channel;Stakeholder;Query_Category;Query_Status;Resolution_Time_Hours;SLA_Met
+2025-06-15;naledi.maseko@bank.co.za;ACC26286005;Call;Other;Digital Banking;Resolved;13,1;Yes
+2025-02-25;naledi.maseko@bank.co.za;ACC24929322;Call;Other;Payments;Escalated;66;No
+2025-10-05;keketso.sangweni@bank.co.za;ACC51023225;Call;Client;Account Maintenance;Pending;;Open
+2025-11-03;brandon.jacobs@bank.co.za;ACC55821089;Call;Client;Technical;Resolved;22,8;Yes
+2025-08-29;thabo.mokoena@bank.co.za;ACC58683599;Email;Client;Onboarding;Resolved;12,5;Yes
+2025-04-12;naledi.maseko@bank.co.za;ACC71610845;Email;Relationship Banker;Payments;Resolved;20;Yes
+2025-11-20;amanda.dlamini@bank.co.za;ACC73768553;Email;Client;Technical;Resolved;11,9;Yes
+2025-07-07;amanda.dlamini@bank.co.za;ACC82840452;Call;Client;Onboarding;Pending;;Open
+2025-07-05;naledi.maseko@bank.co.za;ACC44514046;Call;Relationship Banker;Account Maintenance;Resolved;20;Yes
+2025-02-02;keketso.sangweni@bank.co.za;ACC72402502;Email;Other;Technical;Resolved;16,4;Yes
+2025-03-09;sibusiso.khanyile@bank.co.za;ACC13105844;Call;Relationship Banker;Payments;Resolved;22,9;Yes
+2025-10-31;zanele.mabaso@bank.co.za;ACC30740193;Email;Relationship Banker;Payments;Resolved;11,1;Yes
+2025-02-26;keketso.sangweni@bank.co.za;ACC99969920;Email;Relationship Banker;Onboarding;Resolved;2,1;Yes
+2025-05-16;sibusiso.khanyile@bank.co.za;ACC44386089;Email;Other;Payments;Resolved;15,5;Yes
+2025-02-01;amanda.dlamini@bank.co.za;ACC68119584;Call;Relationship Banker;Technical;Resolved;22,4;Yes
+2025-10-27;naledi.maseko@bank.co.za;ACC17950881;Email;Relationship Banker;Technical;Resolved;5,9;Yes
+2025-05-21;sibusiso.khanyile@bank.co.za;ACC26684606;Email;Relationship Banker;Technical;Resolved;5,4;Yes
+2025-06-19;keketso.sangweni@bank.co.za;ACC35956615;Email;Relationship Banker;Digital Banking;Resolved;23,5;Yes
+2025-11-07;keketso.sangweni@bank.co.za;ACC43256049;Email;Relationship Banker;Technical;Resolved;16,8;Yes
+2025-08-14;brandon.jacobs@bank.co.za;ACC92966461;Call;Client;Account Maintenance;Resolved;8,6;Yes
+2025-05-10;thabo.mokoena@bank.co.za;ACC35568177;Call;Client;Payments;Escalated;58,8;No
+2025-01-02;brandon.jacobs@bank.co.za;ACC98171058;Email;Other;Technical;Resolved;15,1;Yes
+2025-09-11;brandon.jacobs@bank.co.za;ACC37917994;Email;Other;Onboarding;Pending;;Open
+2025-06-18;zanele.mabaso@bank.co.za;ACC14676136;Call;Client;Digital Banking;Resolved;19,2;Yes
+2025-09-19;sibusiso.khanyile@bank.co.za;ACC43794514;Call;Relationship Banker;Account Maintenance;Resolved;12,3;Yes
+2025-01-26;sibusiso.khanyile@bank.co.za;ACC30327112;Call;Client;Payments;Escalated;68,5;No
+2025-03-28;brandon.jacobs@bank.co.za;ACC65491526;Call;Client;Payments;Resolved;9,8;Yes
+2025-02-28;lerato.naidoo@bank.co.za;ACC62979180;Call;Other;Payments;Resolved;17,4;Yes
+2025-08-20;sibusiso.khanyile@bank.co.za;ACC45037264;Call;Client;Technical;Resolved;22;Yes
+2025-10-27;lerato.naidoo@bank.co.za;ACC35025188;Email;Other;Technical;Pending;;Open
+2025-01-09;sibusiso.khanyile@bank.co.za;ACC30171435;Call;Other;Technical;Resolved;17,8;Yes
+2025-07-22;keketso.sangweni@bank.co.za;ACC66815633;Email;Other;Account Maintenance;Transfer to Different Dept;27,2;No
+2025-09-18;thabo.mokoena@bank.co.za;ACC97552045;Email;Client;Payments;Resolved;15,4;Yes
+2025-12-03;keketso.sangweni@bank.co.za;ACC86088402;Email;Relationship Banker;Payments;Resolved;9,7;Yes
+2025-07-26;sibusiso.khanyile@bank.co.za;ACC26845400;Call;Relationship Banker;Technical;Resolved;17;Yes
+2025-05-15;brandon.jacobs@bank.co.za;ACC13496558;Call;Other;Payments;Escalated;54,9;No
+2025-02-14;lerato.naidoo@bank.co.za;ACC89803189;Call;Other;Digital Banking;Transfer to Different Dept;44,2;No
+2025-08-21;lerato.naidoo@bank.co.za;ACC90802747;Call;Other;Digital Banking;Resolved;20,5;Yes
+2025-11-18;zanele.mabaso@bank.co.za;ACC76633339;Email;Client;Onboarding;Resolved;14;Yes
+2025-09-16;brandon.jacobs@bank.co.za;ACC84215442;Call;Other;Onboarding;Resolved;11,6;Yes
+2025-04-19;brandon.jacobs@bank.co.za;ACC28400917;Email;Relationship Banker;Technical;Resolved;1,2;Yes
+2025-03-17;amanda.dlamini@bank.co.za;ACC32782208;Call;Other;Payments;Escalated;42,4;No
+2025-09-08;naledi.maseko@bank.co.za;ACC70723689;Call;Relationship Banker;Payments;Resolved;4,5;Yes
+2025-01-19;sibusiso.khanyile@bank.co.za;ACC37175066;Call;Client;Onboarding;Resolved;23,7;Yes
+2025-09-03;sibusiso.khanyile@bank.co.za;ACC84762784;Call;Client;Payments;Resolved;5,4;Yes
+2025-11-30;brandon.jacobs@bank.co.za;ACC28106389;Email;Client;Onboarding;Resolved;21,7;Yes
+2025-08-29;thabo.mokoena@bank.co.za;ACC61551561;Email;Other;Payments;Transfer to Different Dept;33,6;No
+2025-08-14;keketso.sangweni@bank.co.za;ACC89420846;Call;Relationship Banker;Payments;Resolved;1,2;Yes
+2025-10-17;lerato.naidoo@bank.co.za;ACC35179932;Call;Relationship Banker;Digital Banking;Resolved;12,2;Yes
+2025-04-21;naledi.maseko@bank.co.za;ACC22278486;Call;Client;Payments;Resolved;10,2;Yes
+2025-08-28;thabo.mokoena@bank.co.za;ACC74182219;Call;Relationship Banker;Payments;Resolved;3,5;Yes
+2025-05-18;sibusiso.khanyile@bank.co.za;ACC83552432;Email;Other;Digital Banking;Transfer to Different Dept;14,2;Yes
+2025-02-07;zanele.mabaso@bank.co.za;ACC72417636;Email;Client;Technical;Resolved;8,3;Yes
+2025-06-09;thabo.mokoena@bank.co.za;ACC30636867;Call;Other;Technical;Resolved;10,8;Yes
+2025-07-06;thabo.mokoena@bank.co.za;ACC13265212;Call;Other;Payments;Resolved;5,3;Yes
+2025-02-13;thabo.mokoena@bank.co.za;ACC83749585;Call;Other;Account Maintenance;Resolved;18,4;Yes
+2025-01-06;brandon.jacobs@bank.co.za;ACC25591484;Call;Client;Account Maintenance;Escalated;33,6;No
+2025-02-01;sibusiso.khanyile@bank.co.za;ACC90263574;Email;Client;Onboarding;Resolved;16,2;Yes
+2025-02-25;lerato.naidoo@bank.co.za;ACC31828642;Email;Client;Digital Banking;Escalated;48,4;No
+2025-03-06;keketso.sangweni@bank.co.za;ACC26931274;Email;Other;Payments;Escalated;63,8;No
+2025-03-09;zanele.mabaso@bank.co.za;ACC94822840;Call;Other;Onboarding;Resolved;10,6;Yes
+2025-06-07;amanda.dlamini@bank.co.za;ACC26905080;Call;Client;Account Maintenance;Resolved;2,6;Yes
+2025-05-06;brandon.jacobs@bank.co.za;ACC69403111;Call;Other;Account Maintenance;Resolved;6;Yes
+2025-09-08;zanele.mabaso@bank.co.za;ACC23269800;Call;Relationship Banker;Payments;Resolved;11,7;Yes
+2025-05-26;thabo.mokoena@bank.co.za;ACC89603277;Call;Other;Account Maintenance;Resolved;3;Yes
+2025-05-20;naledi.maseko@bank.co.za;ACC85483768;Call;Client;Payments;Resolved;22,9;Yes
+2025-11-10;naledi.maseko@bank.co.za;ACC52359712;Email;Relationship Banker;Technical;Escalated;47;No
+2025-11-17;keketso.sangweni@bank.co.za;ACC15685987;Call;Client;Technical;Resolved;20,8;Yes
+2025-11-26;zanele.mabaso@bank.co.za;ACC75089438;Call;Relationship Banker;Technical;Resolved;2;Yes
+2025-04-20;brandon.jacobs@bank.co.za;ACC41689695;Email;Other;Onboarding;Resolved;23,6;Yes
+2025-02-28;zanele.mabaso@bank.co.za;ACC50307265;Email;Other;Technical;Resolved;21,7;Yes
+2025-07-19;keketso.sangweni@bank.co.za;ACC27139662;Call;Other;Technical;Resolved;13,3;Yes
+2025-08-06;amanda.dlamini@bank.co.za;ACC94429059;Call;Relationship Banker;Payments;Resolved;19,7;Yes
+2025-08-14;thabo.mokoena@bank.co.za;ACC74524558;Call;Other;Digital Banking;Resolved;20,4;Yes
+2025-04-09;keketso.sangweni@bank.co.za;ACC38759576;Email;Other;Account Maintenance;Resolved;4,7;Yes
+2025-05-24;amanda.dlamini@bank.co.za;ACC42315962;Email;Other;Account Maintenance;Resolved;8,6;Yes
+2025-06-09;sibusiso.khanyile@bank.co.za;ACC68409900;Email;Other;Account Maintenance;Resolved;23;Yes
+2025-05-08;keketso.sangweni@bank.co.za;ACC74206720;Call;Relationship Banker;Payments;Transfer to Different Dept;33,6;No
+2025-05-21;thabo.mokoena@bank.co.za;ACC97901190;Call;Client;Technical;Resolved;2,3;Yes
+2025-04-08;naledi.maseko@bank.co.za;ACC15657216;Call;Relationship Banker;Account Maintenance;Resolved;9,5;Yes
+2025-04-18;lerato.naidoo@bank.co.za;ACC23055936;Email;Client;Technical;Resolved;5,6;Yes
+2025-09-06;keketso.sangweni@bank.co.za;ACC69375849;Email;Client;Payments;Resolved;2,5;Yes
+2025-05-08;lerato.naidoo@bank.co.za;ACC11579725;Call;Client;Account Maintenance;Resolved;6;Yes
+2025-12-11;lerato.naidoo@bank.co.za;ACC93851589;Call;Client;Digital Banking;Resolved;13,5;Yes
+2025-12-02;zanele.mabaso@bank.co.za;ACC29390541;Call;Relationship Banker;Account Maintenance;Pending;;Open
+2025-05-24;keketso.sangweni@bank.co.za;ACC69292903;Call;Other;Payments;Resolved;6;Yes
+2025-04-28;naledi.maseko@bank.co.za;ACC95797175;Email;Client;Technical;Resolved;24;Yes
+2025-12-26;amanda.dlamini@bank.co.za;ACC97558352;Call;Client;Payments;Resolved;4,2;Yes
+2025-10-01;lerato.naidoo@bank.co.za;ACC17376037;Call;Other;Payments;Resolved;5,5;Yes
+2025-02-08;sibusiso.khanyile@bank.co.za;ACC69258373;Call;Other;Payments;Resolved;3,7;Yes
+2025-03-04;thabo.mokoena@bank.co.za;ACC88725784;Call;Relationship Banker;Onboarding;Escalated;64,4;No
+2025-07-16;lerato.naidoo@bank.co.za;ACC33666493;Email;Relationship Banker;Technical;Transfer to Different Dept;46;No
+2025-07-22;thabo.mokoena@bank.co.za;ACC43987079;Email;Relationship Banker;Digital Banking;Pending;;Open
+2025-09-16;keketso.sangweni@bank.co.za;ACC23353639;Call;Relationship Banker;Payments;Escalated;41,3;No
+2025-08-16;thabo.mokoena@bank.co.za;ACC93763043;Email;Relationship Banker;Technical;Resolved;4,1;Yes
+2025-05-23;keketso.sangweni@bank.co.za;ACC25176666;Email;Other;Technical;Resolved;22,4;Yes
+2025-12-26;naledi.maseko@bank.co.za;ACC99740850;Email;Client;Account Maintenance;Resolved;10,1;Yes
+2025-10-25;naledi.maseko@bank.co.za;ACC42155323;Call;Client;Payments;Pending;;Open
+2025-01-22;sibusiso.khanyile@bank.co.za;ACC61249797;Email;Client;Technical;Resolved;18,2;Yes
+2025-12-14;brandon.jacobs@bank.co.za;ACC21857384;Email;Other;Account Maintenance;Resolved;9,3;Yes
+2025-01-07;brandon.jacobs@bank.co.za;ACC60009176;Email;Other;Payments;Resolved;17,7;Yes
+2025-12-08;amanda.dlamini@bank.co.za;ACC89570119;Email;Client;Account Maintenance;Resolved;9,9;Yes
+2025-07-10;lerato.naidoo@bank.co.za;ACC11301035;Call;Other;Payments;Escalated;66,9;No
+2025-07-10;lerato.naidoo@bank.co.za;ACC94049712;Call;Relationship Banker;Account Maintenance;Escalated;54,2;No
+2025-06-05;brandon.jacobs@bank.co.za;ACC98448368;Email;Relationship Banker;Payments;Resolved;14,1;Yes
+2025-10-21;amanda.dlamini@bank.co.za;ACC84811311;Call;Client;Technical;Escalated;34,9;No
+2025-06-16;keketso.sangweni@bank.co.za;ACC92284437;Call;Relationship Banker;Payments;Resolved;3,8;Yes
+2025-11-06;zanele.mabaso@bank.co.za;ACC68230590;Call;Relationship Banker;Technical;Resolved;18,2;Yes
+2025-09-13;brandon.jacobs@bank.co.za;ACC18866656;Email;Client;Onboarding;Resolved;11,1;Yes
+2025-11-16;zanele.mabaso@bank.co.za;ACC25468148;Email;Other;Payments;Pending;;Open
+2025-06-27;amanda.dlamini@bank.co.za;ACC69671217;Call;Client;Onboarding;Resolved;11,6;Yes
+2025-03-08;thabo.mokoena@bank.co.za;ACC46519993;Call;Other;Technical;Resolved;4,4;Yes
+2025-10-16;brandon.jacobs@bank.co.za;ACC84425897;Email;Relationship Banker;Onboarding;Resolved;2,8;Yes
+2025-03-12;keketso.sangweni@bank.co.za;ACC63507318;Call;Relationship Banker;Payments;Resolved;13,3;Yes
+2025-05-13;amanda.dlamini@bank.co.za;ACC75902353;Call;Other;Account Maintenance;Resolved;4,8;Yes
+2025-12-19;brandon.jacobs@bank.co.za;ACC89942899;Call;Client;Technical;Resolved;2,5;Yes
+2025-05-09;sibusiso.khanyile@bank.co.za;ACC30135938;Email;Client;Payments;Resolved;13,8;Yes
+2025-01-14;lerato.naidoo@bank.co.za;ACC37402316;Call;Other;Onboarding;Pending;;Open
+2025-02-22;naledi.maseko@bank.co.za;ACC55451294;Email;Client;Technical;Resolved;7;Yes
+2025-04-11;lerato.naidoo@bank.co.za;ACC30725459;Call;Client;Technical;Resolved;22,1;Yes
+2025-04-02;brandon.jacobs@bank.co.za;ACC39355144;Call;Client;Payments;Resolved;23,5;Yes
+2025-07-29;sibusiso.khanyile@bank.co.za;ACC55177906;Email;Relationship Banker;Technical;Resolved;10,4;Yes
+2025-05-16;keketso.sangweni@bank.co.za;ACC14916884;Email;Relationship Banker;Account Maintenance;Resolved;13,6;Yes
+2025-08-13;thabo.mokoena@bank.co.za;ACC32235869;Email;Other;Digital Banking;Transfer to Different Dept;17,7;Yes
+2025-05-20;lerato.naidoo@bank.co.za;ACC89453221;Call;Relationship Banker;Payments;Resolved;10,2;Yes
+2025-11-08;sibusiso.khanyile@bank.co.za;ACC49039856;Call;Other;Payments;Resolved;2,2;Yes
+2025-05-13;thabo.mokoena@bank.co.za;ACC81509124;Call;Client;Payments;Resolved;23,2;Yes
+2025-06-23;thabo.mokoena@bank.co.za;ACC15516012;Call;Other;Payments;Resolved;10,6;Yes
+2025-06-02;naledi.maseko@bank.co.za;ACC77463613;Call;Relationship Banker;Digital Banking;Resolved;21,3;Yes
+2025-06-17;thabo.mokoena@bank.co.za;ACC63248063;Call;Client;Technical;Resolved;20,6;Yes
+2025-05-25;naledi.maseko@bank.co.za;ACC23831348;Call;Other;Technical;Resolved;4,1;Yes
+2025-08-30;sibusiso.khanyile@bank.co.za;ACC92432180;Call;Other;Payments;Transfer to Different Dept;38,8;No
+2025-05-31;naledi.maseko@bank.co.za;ACC39458061;Email;Relationship Banker;Payments;Transfer to Different Dept;31;No
+2025-05-07;zanele.mabaso@bank.co.za;ACC78774809;Call;Other;Technical;Resolved;7,5;Yes
+2025-01-31;brandon.jacobs@bank.co.za;ACC80975669;Email;Client;Payments;Resolved;12,3;Yes
+2025-03-27;sibusiso.khanyile@bank.co.za;ACC10513955;Call;Client;Account Maintenance;Resolved;19,3;Yes
+2025-11-03;brandon.jacobs@bank.co.za;ACC58669862;Call;Relationship Banker;Technical;Transfer to Different Dept;33,7;No
+2025-11-29;naledi.maseko@bank.co.za;ACC52018430;Email;Client;Payments;Pending;;Open
+2025-05-08;thabo.mokoena@bank.co.za;ACC36158352;Email;Other;Payments;Resolved;13,1;Yes
+2025-11-19;brandon.jacobs@bank.co.za;ACC78937032;Email;Client;Technical;Resolved;7,6;Yes
+2025-02-11;brandon.jacobs@bank.co.za;ACC24151319;Call;Relationship Banker;Payments;Transfer to Different Dept;15,8;Yes
+2025-10-14;thabo.mokoena@bank.co.za;ACC78446229;Call;Other;Payments;Resolved;13,5;Yes
+2025-05-05;brandon.jacobs@bank.co.za;ACC80422939;Call;Other;Onboarding;Escalated;35,7;No
+2025-08-28;sibusiso.khanyile@bank.co.za;ACC60181447;Call;Relationship Banker;Onboarding;Resolved;2,8;Yes
+2025-02-27;keketso.sangweni@bank.co.za;ACC93569908;Email;Client;Technical;Escalated;29,8;No
+2025-11-15;brandon.jacobs@bank.co.za;ACC55863547;Email;Relationship Banker;Digital Banking;Resolved;6,1;Yes
+2025-04-26;naledi.maseko@bank.co.za;ACC36361867;Call;Relationship Banker;Payments;Transfer to Different Dept;12,9;Yes
+2025-04-01;zanele.mabaso@bank.co.za;ACC84359380;Call;Client;Technical;Resolved;9,4;Yes
+2025-09-21;zanele.mabaso@bank.co.za;ACC39345332;Call;Client;Account Maintenance;Pending;;Open
+2025-10-24;lerato.naidoo@bank.co.za;ACC51386834;Email;Client;Account Maintenance;Resolved;3,8;Yes
+2025-05-07;amanda.dlamini@bank.co.za;ACC42944673;Call;Client;Technical;Resolved;19,9;Yes
+2025-03-24;brandon.jacobs@bank.co.za;ACC62831306;Email;Relationship Banker;Account Maintenance;Escalated;65,6;No
+2025-04-18;keketso.sangweni@bank.co.za;ACC20276276;Email;Relationship Banker;Payments;Resolved;23,7;Yes
+2025-12-30;amanda.dlamini@bank.co.za;ACC29763071;Email;Relationship Banker;Technical;Resolved;1,3;Yes
+2025-10-26;lerato.naidoo@bank.co.za;ACC72490458;Email;Client;Payments;Resolved;23,7;Yes
+2025-09-04;naledi.maseko@bank.co.za;ACC92234418;Call;Other;Payments;Resolved;13;Yes
+2025-05-15;brandon.jacobs@bank.co.za;ACC53170465;Call;Relationship Banker;Digital Banking;Resolved;21,5;Yes
+2025-10-31;keketso.sangweni@bank.co.za;ACC77231429;Call;Client;Payments;Pending;;Open
+2025-12-28;naledi.maseko@bank.co.za;ACC34703115;Email;Other;Account Maintenance;Resolved;6,6;Yes
+2025-04-30;thabo.mokoena@bank.co.za;ACC25285144;Call;Relationship Banker;Onboarding;Resolved;18,5;Yes
+2025-09-02;zanele.mabaso@bank.co.za;ACC98092434;Call;Other;Account Maintenance;Resolved;5,9;Yes
+2025-05-12;naledi.maseko@bank.co.za;ACC13980567;Call;Client;Payments;Resolved;14,1;Yes
+2025-02-09;naledi.maseko@bank.co.za;ACC34386069;Call;Relationship Banker;Onboarding;Transfer to Different Dept;45,6;No
+2025-02-05;brandon.jacobs@bank.co.za;ACC77889753;Email;Other;Technical;Transfer to Different Dept;32,2;No
+2025-09-14;zanele.mabaso@bank.co.za;ACC55111364;Call;Relationship Banker;Account Maintenance;Pending;;Open
+2025-04-10;lerato.naidoo@bank.co.za;ACC14150802;Call;Other;Account Maintenance;Resolved;6;Yes
+2025-09-11;lerato.naidoo@bank.co.za;ACC49458037;Call;Relationship Banker;Account Maintenance;Resolved;13,6;Yes
+2025-06-20;sibusiso.khanyile@bank.co.za;ACC27029824;Call;Client;Technical;Escalated;24,4;No
+2025-02-08;thabo.mokoena@bank.co.za;ACC58819928;Email;Relationship Banker;Account Maintenance;Resolved;1,7;Yes
+2025-04-03;naledi.maseko@bank.co.za;ACC17791332;Call;Relationship Banker;Account Maintenance;Resolved;16,5;Yes
+2025-09-22;zanele.mabaso@bank.co.za;ACC45096037;Call;Client;Account Maintenance;Resolved;14;Yes
+2025-11-30;brandon.jacobs@bank.co.za;ACC82956619;Call;Client;Onboarding;Resolved;19,7;Yes
+2025-09-09;amanda.dlamini@bank.co.za;ACC28501085;Email;Other;Payments;Resolved;6,8;Yes
+2025-07-24;keketso.sangweni@bank.co.za;ACC55492748;Call;Other;Digital Banking;Resolved;11,3;Yes
+2025-03-18;lerato.naidoo@bank.co.za;ACC47199112;Call;Client;Account Maintenance;Pending;;Open
+2025-02-17;thabo.mokoena@bank.co.za;ACC38381193;Email;Relationship Banker;Technical;Resolved;9,1;Yes
+2025-05-16;sibusiso.khanyile@bank.co.za;ACC70984164;Call;Relationship Banker;Digital Banking;Resolved;13,9;Yes
+2025-12-08;keketso.sangweni@bank.co.za;ACC84893601;Call;Client;Payments;Escalated;32;No
+2025-11-18;sibusiso.khanyile@bank.co.za;ACC50078732;Call;Relationship Banker;Payments;Resolved;22,4;Yes
+2025-01-04;sibusiso.khanyile@bank.co.za;ACC96050240;Call;Client;Payments;Escalated;25,8;No
+2025-11-07;naledi.maseko@bank.co.za;ACC91693092;Call;Other;Technical;Resolved;2,3;Yes
+2025-10-29;lerato.naidoo@bank.co.za;ACC17305548;Email;Client;Technical;Resolved;8,2;Yes
+2025-01-04;zanele.mabaso@bank.co.za;ACC59993871;Email;Client;Account Maintenance;Escalated;35,2;No
+2025-08-21;brandon.jacobs@bank.co.za;ACC36414891;Email;Other;Payments;Escalated;46,7;No
+2025-05-03;thabo.mokoena@bank.co.za;ACC44917506;Call;Other;Technical;Transfer to Different Dept;31,7;No
+2025-05-11;brandon.jacobs@bank.co.za;ACC78089444;Call;Client;Payments;Resolved;17;Yes
+2025-01-21;sibusiso.khanyile@bank.co.za;ACC49322871;Email;Client;Payments;Resolved;23,3;Yes
+2025-03-11;zanele.mabaso@bank.co.za;ACC67660135;Email;Relationship Banker;Technical;Escalated;57;No
+2025-08-17;thabo.mokoena@bank.co.za;ACC99678577;Email;Relationship Banker;Payments;Resolved;23,6;Yes
+2025-11-09;zanele.mabaso@bank.co.za;ACC87804812;Call;Other;Payments;Pending;;Open
+2025-04-17;thabo.mokoena@bank.co.za;ACC55932853;Call;Client;Payments;Resolved;10,7;Yes
+2025-09-01;lerato.naidoo@bank.co.za;ACC96243628;Call;Other;Digital Banking;Resolved;17,2;Yes
+2025-10-15;naledi.maseko@bank.co.za;ACC99882137;Call;Client;Onboarding;Escalated;64,1;No
+2025-01-30;thabo.mokoena@bank.co.za;ACC57330867;Email;Other;Payments;Resolved;17,7;Yes
+2025-09-26;lerato.naidoo@bank.co.za;ACC89420079;Email;Other;Account Maintenance;Resolved;12,7;Yes
+2025-04-04;keketso.sangweni@bank.co.za;ACC28527632;Call;Client;Digital Banking;Resolved;4,7;Yes
+2025-08-21;naledi.maseko@bank.co.za;ACC29414833;Call;Relationship Banker;Technical;Transfer to Different Dept;46;No
+2025-12-10;thabo.mokoena@bank.co.za;ACC38724638;Call;Relationship Banker;Account Maintenance;Escalated;54,4;No
+2025-11-17;zanele.mabaso@bank.co.za;ACC91436921;Call;Client;Payments;Resolved;10,3;Yes
+2025-11-07;brandon.jacobs@bank.co.za;ACC78653867;Email;Client;Payments;Resolved;19;Yes
+2025-11-25;sibusiso.khanyile@bank.co.za;ACC29868588;Call;Client;Onboarding;Resolved;15,5;Yes
+2025-06-19;zanele.mabaso@bank.co.za;ACC18705150;Call;Relationship Banker;Payments;Resolved;18,3;Yes
+2025-02-04;lerato.naidoo@bank.co.za;ACC90714103;Email;Relationship Banker;Technical;Escalated;33,3;No
+2025-02-03;lerato.naidoo@bank.co.za;ACC34665521;Call;Client;Payments;Resolved;3,3;Yes
+2025-12-26;zanele.mabaso@bank.co.za;ACC92746837;Call;Other;Digital Banking;Resolved;10,5;Yes
+2025-12-11;sibusiso.khanyile@bank.co.za;ACC68577922;Call;Other;Digital Banking;Transfer to Different Dept;32,8;No
+2025-04-26;thabo.mokoena@bank.co.za;ACC50563578;Email;Relationship Banker;Payments;Resolved;4,6;Yes
+2025-01-02;thabo.mokoena@bank.co.za;ACC10570084;Email;Client;Digital Banking;Escalated;30,8;No
+2025-08-27;keketso.sangweni@bank.co.za;ACC90864499;Call;Other;Technical;Resolved;19;Yes
+2025-10-15;thabo.mokoena@bank.co.za;ACC58562390;Email;Relationship Banker;Account Maintenance;Resolved;15,7;Yes
+2025-11-04;zanele.mabaso@bank.co.za;ACC65626883;Call;Relationship Banker;Digital Banking;Resolved;21,4;Yes
+2025-10-15;zanele.mabaso@bank.co.za;ACC42587534;Call;Relationship Banker;Account Maintenance;Escalated;37,5;No
+2025-08-03;lerato.naidoo@bank.co.za;ACC13751364;Call;Relationship Banker;Payments;Resolved;5,2;Yes
+2025-01-30;zanele.mabaso@bank.co.za;ACC44271616;Email;Other;Payments;Resolved;1,6;Yes
+2025-02-18;keketso.sangweni@bank.co.za;ACC71181317;Email;Other;Account Maintenance;Resolved;11,5;Yes
+2025-01-27;lerato.naidoo@bank.co.za;ACC31093252;Call;Client;Digital Banking;Resolved;23,3;Yes
+2025-08-28;naledi.maseko@bank.co.za;ACC86701116;Email;Relationship Banker;Onboarding;Resolved;13,4;Yes
+2025-08-17;sibusiso.khanyile@bank.co.za;ACC63780696;Email;Other;Onboarding;Escalated;43,5;No
+2025-11-13;thabo.mokoena@bank.co.za;ACC13039060;Email;Client;Technical;Resolved;24;Yes
+2025-12-24;sibusiso.khanyile@bank.co.za;ACC81424133;Email;Other;Account Maintenance;Resolved;22,9;Yes
+2025-05-18;sibusiso.khanyile@bank.co.za;ACC59845646;Email;Relationship Banker;Technical;Resolved;4,5;Yes
+2025-03-15;lerato.naidoo@bank.co.za;ACC56203456;Call;Client;Technical;Resolved;6,7;Yes
+2025-07-10;zanele.mabaso@bank.co.za;ACC86837931;Email;Relationship Banker;Payments;Resolved;11,3;Yes
+2025-04-25;sibusiso.khanyile@bank.co.za;ACC26268653;Call;Other;Technical;Escalated;43;No
+2025-01-21;keketso.sangweni@bank.co.za;ACC66275637;Call;Client;Onboarding;Resolved;4;Yes
+2025-05-24;brandon.jacobs@bank.co.za;ACC27181815;Call;Relationship Banker;Digital Banking;Transfer to Different Dept;12,8;Yes
+2025-11-08;keketso.sangweni@bank.co.za;ACC84774235;Call;Client;Onboarding;Escalated;39,4;No
+2025-11-29;keketso.sangweni@bank.co.za;ACC80481866;Call;Other;Payments;Escalated;62;No
+2025-10-14;thabo.mokoena@bank.co.za;ACC63664540;Email;Relationship Banker;Technical;Resolved;14,8;Yes
+2025-07-27;sibusiso.khanyile@bank.co.za;ACC78355308;Call;Client;Technical;Resolved;2,8;Yes
+2025-05-18;zanele.mabaso@bank.co.za;ACC83647697;Call;Client;Onboarding;Resolved;17,2;Yes
+2025-09-29;amanda.dlamini@bank.co.za;ACC34323027;Call;Client;Account Maintenance;Resolved;13,6;Yes
+2025-06-23;zanele.mabaso@bank.co.za;ACC71334566;Call;Other;Account Maintenance;Resolved;15,5;Yes
+2025-03-29;zanele.mabaso@bank.co.za;ACC82050253;Call;Relationship Banker;Digital Banking;Resolved;22,6;Yes
+2025-11-20;thabo.mokoena@bank.co.za;ACC62321850;Call;Client;Technical;Resolved;9,2;Yes
+2025-02-08;lerato.naidoo@bank.co.za;ACC85611293;Call;Relationship Banker;Technical;Resolved;23,1;Yes
+2025-01-29;thabo.mokoena@bank.co.za;ACC93071324;Call;Relationship Banker;Account Maintenance;Resolved;20,7;Yes
+2025-09-20;sibusiso.khanyile@bank.co.za;ACC85374199;Call;Other;Onboarding;Transfer to Different Dept;41,8;No
+2025-08-01;lerato.naidoo@bank.co.za;ACC91859030;Call;Relationship Banker;Technical;Escalated;62,5;No
+2025-08-23;naledi.maseko@bank.co.za;ACC80452343;Email;Client;Payments;Resolved;15,5;Yes
+2025-03-19;zanele.mabaso@bank.co.za;ACC73656335;Email;Client;Payments;Resolved;1,7;Yes
+2025-10-15;amanda.dlamini@bank.co.za;ACC10686601;Call;Relationship Banker;Account Maintenance;Resolved;19,5;Yes
+2025-01-03;naledi.maseko@bank.co.za;ACC30747994;Email;Client;Payments;Escalated;32,8;No
+2025-01-16;sibusiso.khanyile@bank.co.za;ACC89073768;Call;Other;Digital Banking;Transfer to Different Dept;40;No
+2025-04-21;sibusiso.khanyile@bank.co.za;ACC95995470;Call;Other;Account Maintenance;Escalated;28,1;No
+2025-10-05;zanele.mabaso@bank.co.za;ACC70243633;Email;Relationship Banker;Technical;Resolved;1,1;Yes
+2025-07-24;zanele.mabaso@bank.co.za;ACC28739538;Email;Other;Payments;Transfer to Different Dept;29,5;No
+2025-07-05;amanda.dlamini@bank.co.za;ACC89382272;Call;Relationship Banker;Account Maintenance;Transfer to Different Dept;18;Yes
+2025-07-11;amanda.dlamini@bank.co.za;ACC75689820;Call;Client;Account Maintenance;Pending;;Open
+2025-01-21;naledi.maseko@bank.co.za;ACC37140695;Email;Relationship Banker;Technical;Resolved;15,3;Yes
+2025-04-19;sibusiso.khanyile@bank.co.za;ACC32449212;Email;Relationship Banker;Onboarding;Escalated;39,9;No
+2025-02-05;keketso.sangweni@bank.co.za;ACC69010009;Call;Relationship Banker;Payments;Resolved;7,5;Yes
+2025-03-29;sibusiso.khanyile@bank.co.za;ACC26802947;Call;Relationship Banker;Technical;Resolved;23,4;Yes
+2025-11-12;keketso.sangweni@bank.co.za;ACC16477082;Call;Other;Account Maintenance;Resolved;6,8;Yes
+2025-11-26;sibusiso.khanyile@bank.co.za;ACC36685474;Call;Other;Payments;Resolved;4,5;Yes
+2025-04-06;zanele.mabaso@bank.co.za;ACC24850242;Call;Client;Technical;Resolved;18,8;Yes
+2025-07-07;keketso.sangweni@bank.co.za;ACC16446168;Call;Client;Account Maintenance;Resolved;2,5;Yes
+2025-07-13;keketso.sangweni@bank.co.za;ACC63039180;Call;Client;Account Maintenance;Transfer to Different Dept;17,9;Yes
+2025-08-22;thabo.mokoena@bank.co.za;ACC43037260;Call;Other;Account Maintenance;Resolved;10,5;Yes
+2025-06-09;lerato.naidoo@bank.co.za;ACC55290125;Email;Relationship Banker;Payments;Escalated;27,1;No
+2025-11-17;thabo.mokoena@bank.co.za;ACC29424870;Call;Client;Account Maintenance;Resolved;9,2;Yes
+2025-03-13;zanele.mabaso@bank.co.za;ACC20594379;Email;Client;Technical;Resolved;12;Yes
+2025-04-30;zanele.mabaso@bank.co.za;ACC84930898;Call;Relationship Banker;Payments;Transfer to Different Dept;30;No
+2025-03-03;zanele.mabaso@bank.co.za;ACC68116659;Call;Other;Account Maintenance;Escalated;55,5;No
+2025-08-02;keketso.sangweni@bank.co.za;ACC22607543;Call;Relationship Banker;Onboarding;Resolved;11;Yes
+2025-01-26;amanda.dlamini@bank.co.za;ACC52589306;Call;Other;Account Maintenance;Transfer to Different Dept;35,6;No
+2025-11-09;keketso.sangweni@bank.co.za;ACC13024616;Email;Other;Technical;Resolved;10,1;Yes
+2025-04-08;sibusiso.khanyile@bank.co.za;ACC25010770;Email;Client;Onboarding;Resolved;20,8;Yes
+2025-04-18;keketso.sangweni@bank.co.za;ACC52742498;Email;Other;Payments;Resolved;7,4;Yes
+2025-12-19;sibusiso.khanyile@bank.co.za;ACC12236819;Email;Relationship Banker;Payments;Pending;;Open
+2025-11-02;sibusiso.khanyile@bank.co.za;ACC80298854;Call;Relationship Banker;Digital Banking;Resolved;13,6;Yes
+2025-08-12;lerato.naidoo@bank.co.za;ACC31805957;Call;Relationship Banker;Account Maintenance;Resolved;20,3;Yes
+2025-08-01;zanele.mabaso@bank.co.za;ACC25749018;Call;Other;Payments;Resolved;19,5;Yes
+2025-06-04;brandon.jacobs@bank.co.za;ACC10631167;Email;Client;Account Maintenance;Resolved;3,4;Yes
+2025-07-12;lerato.naidoo@bank.co.za;ACC94560235;Email;Other;Account Maintenance;Escalated;35,6;No
+2025-04-20;amanda.dlamini@bank.co.za;ACC30029866;Call;Other;Onboarding;Resolved;22,7;Yes
+2025-07-11;amanda.dlamini@bank.co.za;ACC61467267;Email;Other;Account Maintenance;Resolved;20,8;Yes
+2025-11-15;brandon.jacobs@bank.co.za;ACC99853469;Call;Relationship Banker;Account Maintenance;Resolved;2,9;Yes
+2025-03-23;zanele.mabaso@bank.co.za;ACC10777713;Call;Client;Technical;Resolved;9;Yes
+2025-09-22;keketso.sangweni@bank.co.za;ACC87040109;Email;Client;Account Maintenance;Resolved;2,7;Yes
+2025-11-30;brandon.jacobs@bank.co.za;ACC28489481;Call;Relationship Banker;Technical;Transfer to Different Dept;47,8;No
+2025-12-28;thabo.mokoena@bank.co.za;ACC41473637;Email;Client;Technical;Resolved;3,9;Yes
+2025-05-27;amanda.dlamini@bank.co.za;ACC46015540;Call;Relationship Banker;Payments;Resolved;4,7;Yes
+2025-08-25;zanele.mabaso@bank.co.za;ACC23109998;Email;Client;Digital Banking;Resolved;15;Yes
+2025-08-11;naledi.maseko@bank.co.za;ACC38924333;Email;Relationship Banker;Technical;Pending;;Open
+2025-06-25;amanda.dlamini@bank.co.za;ACC30961298;Call;Relationship Banker;Technical;Resolved;2,7;Yes
+2025-06-17;naledi.maseko@bank.co.za;ACC72799128;Call;Client;Technical;Resolved;8;Yes
+2025-04-29;zanele.mabaso@bank.co.za;ACC75165625;Call;Client;Onboarding;Resolved;10,1;Yes
+2025-06-30;naledi.maseko@bank.co.za;ACC53332720;Email;Client;Technical;Transfer to Different Dept;45,2;No
+2025-06-03;keketso.sangweni@bank.co.za;ACC25008250;Call;Relationship Banker;Digital Banking;Transfer to Different Dept;46,8;No
+2025-11-18;thabo.mokoena@bank.co.za;ACC63475578;Call;Client;Technical;Resolved;19,1;Yes
+2025-04-13;zanele.mabaso@bank.co.za;ACC28663138;Email;Other;Technical;Escalated;40,4;No
+2025-12-14;amanda.dlamini@bank.co.za;ACC35070915;Call;Client;Digital Banking;Resolved;9,1;Yes
+2025-07-01;brandon.jacobs@bank.co.za;ACC47968411;Call;Other;Technical;Resolved;3,4;Yes
+2025-06-06;zanele.mabaso@bank.co.za;ACC17810005;Call;Other;Account Maintenance;Transfer to Different Dept;31,6;No
+2025-01-27;sibusiso.khanyile@bank.co.za;ACC26093021;Call;Other;Digital Banking;Resolved;4,1;Yes
+2025-07-14;lerato.naidoo@bank.co.za;ACC76969715;Email;Client;Payments;Escalated;63,4;No
+2025-06-19;thabo.mokoena@bank.co.za;ACC10229493;Call;Other;Account Maintenance;Resolved;3;Yes
+2025-11-13;keketso.sangweni@bank.co.za;ACC49734656;Email;Relationship Banker;Account Maintenance;Resolved;18,6;Yes
+2025-03-16;brandon.jacobs@bank.co.za;ACC78374658;Call;Other;Payments;Escalated;44;No
+2025-07-08;sibusiso.khanyile@bank.co.za;ACC33500184;Email;Relationship Banker;Digital Banking;Transfer to Different Dept;30,1;No
+2025-01-12;lerato.naidoo@bank.co.za;ACC82552465;Call;Client;Onboarding;Resolved;10,7;Yes
+2025-02-20;lerato.naidoo@bank.co.za;ACC79732295;Call;Client;Technical;Resolved;4,6;Yes
+2025-09-02;sibusiso.khanyile@bank.co.za;ACC50296516;Call;Client;Payments;Transfer to Different Dept;32,7;No
+2025-11-21;keketso.sangweni@bank.co.za;ACC77681781;Call;Client;Digital Banking;Resolved;15,9;Yes
+2025-09-02;keketso.sangweni@bank.co.za;ACC79507535;Email;Relationship Banker;Payments;Escalated;71,3;No
+2025-11-18;sibusiso.khanyile@bank.co.za;ACC61786889;Email;Other;Account Maintenance;Escalated;46,8;No
+2025-03-17;brandon.jacobs@bank.co.za;ACC66594213;Call;Client;Account Maintenance;Escalated;60,1;No
+2025-05-10;naledi.maseko@bank.co.za;ACC28413812;Call;Relationship Banker;Payments;Escalated;37,6;No
+2025-05-06;amanda.dlamini@bank.co.za;ACC47169778;Email;Client;Technical;Resolved;23,8;Yes
+2025-11-05;sibusiso.khanyile@bank.co.za;ACC14952895;Call;Client;Payments;Resolved;20,8;Yes
+2025-04-22;amanda.dlamini@bank.co.za;ACC17052027;Email;Other;Account Maintenance;Resolved;19,7;Yes
+2025-02-18;brandon.jacobs@bank.co.za;ACC17169837;Call;Relationship Banker;Onboarding;Resolved;11,2;Yes
+2025-05-20;lerato.naidoo@bank.co.za;ACC61964245;Email;Client;Onboarding;Resolved;17,2;Yes
+2025-12-12;zanele.mabaso@bank.co.za;ACC82733832;Call;Client;Technical;Resolved;7,1;Yes
+2025-09-05;brandon.jacobs@bank.co.za;ACC31492729;Call;Relationship Banker;Payments;Escalated;67,9;No
+2025-12-20;zanele.mabaso@bank.co.za;ACC44146061;Call;Other;Account Maintenance;Transfer to Different Dept;31,1;No
+2025-08-13;naledi.maseko@bank.co.za;ACC54128482;Call;Client;Account Maintenance;Resolved;19,2;Yes
+2025-02-16;thabo.mokoena@bank.co.za;ACC16488193;Call;Relationship Banker;Onboarding;Resolved;1,4;Yes
+2025-03-09;lerato.naidoo@bank.co.za;ACC45842693;Email;Relationship Banker;Payments;Transfer to Different Dept;21,9;Yes
+2025-04-22;naledi.maseko@bank.co.za;ACC20856160;Call;Other;Digital Banking;Transfer to Different Dept;36,5;No
+2025-03-29;zanele.mabaso@bank.co.za;ACC23955551;Call;Other;Onboarding;Resolved;18,4;Yes
+2025-11-08;zanele.mabaso@bank.co.za;ACC19976908;Email;Client;Payments;Resolved;22;Yes
+2025-03-10;thabo.mokoena@bank.co.za;ACC28196178;Call;Relationship Banker;Technical;Resolved;4,3;Yes
+2025-04-01;zanele.mabaso@bank.co.za;ACC26024217;Email;Relationship Banker;Account Maintenance;Resolved;4,3;Yes
+2025-10-05;naledi.maseko@bank.co.za;ACC58355662;Call;Relationship Banker;Payments;Resolved;19,3;Yes
+2025-04-08;brandon.jacobs@bank.co.za;ACC37585189;Call;Relationship Banker;Onboarding;Resolved;17,1;Yes
+2025-08-13;brandon.jacobs@bank.co.za;ACC11382654;Email;Relationship Banker;Payments;Resolved;16,5;Yes
+2025-11-25;amanda.dlamini@bank.co.za;ACC27006224;Call;Other;Onboarding;Resolved;16,6;Yes
+2025-12-15;sibusiso.khanyile@bank.co.za;ACC58823229;Call;Relationship Banker;Onboarding;Resolved;7,1;Yes
+2025-02-21;amanda.dlamini@bank.co.za;ACC37916164;Email;Client;Onboarding;Escalated;34,9;No
+2025-06-14;naledi.maseko@bank.co.za;ACC59993829;Call;Relationship Banker;Payments;Resolved;2,7;Yes
+2025-11-23;brandon.jacobs@bank.co.za;ACC92608370;Call;Other;Digital Banking;Resolved;18;Yes
+2025-01-30;thabo.mokoena@bank.co.za;ACC80574604;Email;Relationship Banker;Payments;Resolved;6,3;Yes
+2025-11-06;zanele.mabaso@bank.co.za;ACC41306231;Call;Other;Payments;Transfer to Different Dept;41,7;No
+2025-10-19;thabo.mokoena@bank.co.za;ACC86919132;Call;Relationship Banker;Digital Banking;Resolved;9,6;Yes
+2025-10-27;naledi.maseko@bank.co.za;ACC91839168;Call;Relationship Banker;Account Maintenance;Resolved;17,1;Yes
+2025-06-29;brandon.jacobs@bank.co.za;ACC51433003;Call;Client;Payments;Resolved;17,7;Yes
+2025-10-07;thabo.mokoena@bank.co.za;ACC83320159;Email;Client;Account Maintenance;Pending;;Open
+2025-07-02;zanele.mabaso@bank.co.za;ACC21690342;Call;Other;Payments;Resolved;17,1;Yes
+2025-01-12;zanele.mabaso@bank.co.za;ACC75271050;Call;Client;Payments;Escalated;62,2;No
+2025-12-13;naledi.maseko@bank.co.za;ACC49059885;Call;Relationship Banker;Payments;Resolved;23,6;Yes
+2025-08-20;amanda.dlamini@bank.co.za;ACC68156038;Email;Other;Technical;Resolved;13,5;Yes
+2025-08-21;thabo.mokoena@bank.co.za;ACC82031911;Email;Client;Payments;Escalated;52,6;No
+2025-04-07;zanele.mabaso@bank.co.za;ACC68089936;Call;Client;Payments;Resolved;9,4;Yes
+2025-04-26;lerato.naidoo@bank.co.za;ACC36583733;Call;Relationship Banker;Payments;Resolved;4,2;Yes
+2025-05-19;thabo.mokoena@bank.co.za;ACC45011857;Call;Relationship Banker;Account Maintenance;Escalated;43,2;No
+2025-11-25;keketso.sangweni@bank.co.za;ACC59304534;Email;Other;Digital Banking;Resolved;20,6;Yes
+2025-09-20;brandon.jacobs@bank.co.za;ACC89764278;Call;Other;Payments;Escalated;42,6;No
+2025-10-22;thabo.mokoena@bank.co.za;ACC99963725;Call;Client;Account Maintenance;Resolved;20,3;Yes
+2025-05-28;brandon.jacobs@bank.co.za;ACC93027525;Call;Relationship Banker;Onboarding;Resolved;22,1;Yes
+2025-12-22;thabo.mokoena@bank.co.za;ACC20668169;Call;Relationship Banker;Account Maintenance;Resolved;19,2;Yes
+2025-11-09;sibusiso.khanyile@bank.co.za;ACC27938380;Call;Other;Payments;Resolved;10,8;Yes
+2025-08-17;amanda.dlamini@bank.co.za;ACC70865937;Email;Relationship Banker;Payments;Resolved;12,8;Yes
+2025-08-29;amanda.dlamini@bank.co.za;ACC36257409;Email;Client;Payments;Transfer to Different Dept;21,4;Yes
+2025-08-08;lerato.naidoo@bank.co.za;ACC40342133;Call;Client;Technical;Escalated;62,3;No
+2025-01-28;naledi.maseko@bank.co.za;ACC64143679;Call;Relationship Banker;Technical;Resolved;12,1;Yes
+2025-10-26;zanele.mabaso@bank.co.za;ACC46843931;Email;Relationship Banker;Account Maintenance;Pending;;Open
+2025-11-04;brandon.jacobs@bank.co.za;ACC81894372;Email;Other;Payments;Escalated;42,5;No
+2025-03-08;naledi.maseko@bank.co.za;ACC87256945;Email;Client;Payments;Transfer to Different Dept;44,3;No
+2025-09-30;zanele.mabaso@bank.co.za;ACC92995200;Email;Relationship Banker;Payments;Escalated;70,8;No
+2025-03-07;brandon.jacobs@bank.co.za;ACC38298543;Email;Relationship Banker;Payments;Resolved;19,2;Yes
+2025-10-06;thabo.mokoena@bank.co.za;ACC79636509;Email;Other;Technical;Pending;;Open
+2025-12-24;thabo.mokoena@bank.co.za;ACC54147142;Email;Other;Account Maintenance;Resolved;7,6;Yes
+2025-02-15;amanda.dlamini@bank.co.za;ACC78304773;Call;Other;Technical;Resolved;13,3;Yes
+2025-02-08;thabo.mokoena@bank.co.za;ACC36846805;Call;Other;Onboarding;Resolved;21,2;Yes
+2025-05-22;brandon.jacobs@bank.co.za;ACC13995885;Call;Client;Payments;Transfer to Different Dept;45;No
+2025-02-17;naledi.maseko@bank.co.za;ACC50630470;Call;Relationship Banker;Payments;Transfer to Different Dept;47,4;No
+2025-03-26;thabo.mokoena@bank.co.za;ACC11422802;Call;Other;Technical;Resolved;6,2;Yes
+2025-11-14;zanele.mabaso@bank.co.za;ACC35807989;Call;Relationship Banker;Account Maintenance;Transfer to Different Dept;40,7;No
+2025-10-20;zanele.mabaso@bank.co.za;ACC20321452;Email;Other;Technical;Pending;;Open
+2025-12-07;amanda.dlamini@bank.co.za;ACC58234082;Call;Client;Account Maintenance;Resolved;20,6;Yes
+2025-01-25;zanele.mabaso@bank.co.za;ACC63235955;Call;Client;Onboarding;Resolved;12,5;Yes
+2025-08-26;brandon.jacobs@bank.co.za;ACC52632962;Call;Client;Payments;Resolved;12,9;Yes
+2025-07-06;brandon.jacobs@bank.co.za;ACC26004234;Email;Other;Account Maintenance;Resolved;23,3;Yes
+2025-12-22;thabo.mokoena@bank.co.za;ACC14818203;Call;Client;Technical;Resolved;12,2;Yes
+2025-12-02;lerato.naidoo@bank.co.za;ACC59487837;Call;Relationship Banker;Account Maintenance;Resolved;9,4;Yes
+2025-11-18;lerato.naidoo@bank.co.za;ACC66191138;Call;Relationship Banker;Account Maintenance;Resolved;9,9;Yes
+2025-12-11;amanda.dlamini@bank.co.za;ACC27636374;Call;Relationship Banker;Payments;Resolved;20,6;Yes
+2025-09-05;thabo.mokoena@bank.co.za;ACC43613634;Email;Client;Payments;Resolved;1,5;Yes
+2025-01-02;sibusiso.khanyile@bank.co.za;ACC40249525;Call;Client;Payments;Resolved;18,8;Yes
+2025-12-04;zanele.mabaso@bank.co.za;ACC96001168;Call;Client;Payments;Resolved;9,6;Yes
+2025-04-28;keketso.sangweni@bank.co.za;ACC36296304;Call;Relationship Banker;Payments;Resolved;23,2;Yes
+2025-09-17;keketso.sangweni@bank.co.za;ACC44290791;Call;Relationship Banker;Payments;Pending;;Open
+2025-02-09;amanda.dlamini@bank.co.za;ACC75108382;Call;Client;Payments;Escalated;31;No
+2025-01-13;sibusiso.khanyile@bank.co.za;ACC12492439;Call;Relationship Banker;Technical;Escalated;24,3;No
+2025-05-15;amanda.dlamini@bank.co.za;ACC90878773;Email;Relationship Banker;Payments;Resolved;4,5;Yes
+2025-07-30;lerato.naidoo@bank.co.za;ACC96031411;Email;Client;Technical;Resolved;5;Yes
+2025-06-11;zanele.mabaso@bank.co.za;ACC40285446;Email;Other;Technical;Transfer to Different Dept;34,9;No
+2025-03-23;thabo.mokoena@bank.co.za;ACC90872318;Call;Other;Onboarding;Resolved;14,4;Yes
+2025-07-28;brandon.jacobs@bank.co.za;ACC38908989;Call;Client;Payments;Resolved;5,3;Yes
+2025-01-03;thabo.mokoena@bank.co.za;ACC99685079;Call;Relationship Banker;Payments;Resolved;1,7;Yes
+2025-11-02;amanda.dlamini@bank.co.za;ACC62578424;Call;Client;Technical;Resolved;16,3;Yes
+2025-12-06;keketso.sangweni@bank.co.za;ACC11300691;Call;Client;Payments;Resolved;23,9;Yes
+2025-07-15;amanda.dlamini@bank.co.za;ACC38422674;Email;Other;Technical;Resolved;10;Yes
+2025-11-02;naledi.maseko@bank.co.za;ACC74648202;Call;Relationship Banker;Account Maintenance;Pending;;Open
+2025-10-10;thabo.mokoena@bank.co.za;ACC18671593;Call;Client;Digital Banking;Transfer to Different Dept;25,6;No
+2025-03-04;keketso.sangweni@bank.co.za;ACC77769432;Email;Relationship Banker;Account Maintenance;Resolved;17,9;Yes
+2025-05-30;amanda.dlamini@bank.co.za;ACC89417607;Call;Other;Technical;Resolved;19,4;Yes
+2025-01-28;brandon.jacobs@bank.co.za;ACC47465518;Email;Client;Technical;Escalated;60,7;No
+2025-07-23;thabo.mokoena@bank.co.za;ACC65965986;Call;Relationship Banker;Technical;Resolved;5,3;Yes
+2025-01-25;zanele.mabaso@bank.co.za;ACC81966699;Call;Relationship Banker;Account Maintenance;Resolved;21,3;Yes
+2025-01-15;amanda.dlamini@bank.co.za;ACC36977908;Call;Relationship Banker;Account Maintenance;Resolved;23,8;Yes
+2025-04-09;sibusiso.khanyile@bank.co.za;ACC75080320;Email;Client;Account Maintenance;Resolved;16,6;Yes
+2025-08-29;lerato.naidoo@bank.co.za;ACC80236779;Call;Other;Digital Banking;Resolved;15,6;Yes
+2025-06-10;keketso.sangweni@bank.co.za;ACC23557520;Call;Relationship Banker;Account Maintenance;Resolved;23,6;Yes
+2025-02-18;zanele.mabaso@bank.co.za;ACC91826961;Call;Relationship Banker;Account Maintenance;Resolved;8,1;Yes
+2025-10-14;lerato.naidoo@bank.co.za;ACC53718650;Call;Relationship Banker;Payments;Resolved;3,2;Yes
+2025-01-15;amanda.dlamini@bank.co.za;ACC88369469;Email;Relationship Banker;Onboarding;Resolved;4,6;Yes
+2025-09-06;keketso.sangweni@bank.co.za;ACC59428320;Email;Relationship Banker;Onboarding;Resolved;18,5;Yes
+2025-02-10;zanele.mabaso@bank.co.za;ACC34416222;Call;Relationship Banker;Digital Banking;Resolved;4;Yes
+2025-02-12;sibusiso.khanyile@bank.co.za;ACC87136489;Call;Other;Account Maintenance;Escalated;54,7;No
+2025-07-06;zanele.mabaso@bank.co.za;ACC70812420;Email;Client;Technical;Escalated;36,9;No
+2025-07-18;thabo.mokoena@bank.co.za;ACC63204955;Call;Other;Technical;Resolved;21,5;Yes
+2025-05-09;brandon.jacobs@bank.co.za;ACC16430663;Call;Relationship Banker;Onboarding;Transfer to Different Dept;36;No
+2025-02-02;zanele.mabaso@bank.co.za;ACC42149646;Email;Relationship Banker;Onboarding;Resolved;23;Yes
+2025-02-08;brandon.jacobs@bank.co.za;ACC48738465;Call;Other;Account Maintenance;Resolved;15,8;Yes
+2025-03-02;keketso.sangweni@bank.co.za;ACC49179615;Email;Relationship Banker;Account Maintenance;Resolved;10,5;Yes
+2025-12-27;brandon.jacobs@bank.co.za;ACC19301201;Call;Relationship Banker;Account Maintenance;Resolved;5,9;Yes
+2025-10-13;brandon.jacobs@bank.co.za;ACC19499678;Email;Other;Technical;Escalated;54,9;No
+2025-11-29;zanele.mabaso@bank.co.za;ACC98041356;Call;Client;Payments;Resolved;14,5;Yes
+2025-01-19;naledi.maseko@bank.co.za;ACC11768606;Call;Other;Digital Banking;Resolved;8,1;Yes
+2025-08-19;keketso.sangweni@bank.co.za;ACC60539476;Call;Other;Onboarding;Resolved;21,5;Yes
+2025-02-27;keketso.sangweni@bank.co.za;ACC86840500;Call;Other;Account Maintenance;Resolved;1,9;Yes
+2025-05-11;zanele.mabaso@bank.co.za;ACC18423370;Email;Client;Payments;Resolved;20,4;Yes
+2025-03-03;zanele.mabaso@bank.co.za;ACC25592014;Call;Client;Account Maintenance;Resolved;15,9;Yes
+2025-06-18;brandon.jacobs@bank.co.za;ACC61905379;Call;Client;Onboarding;Escalated;29;No
+2025-12-08;keketso.sangweni@bank.co.za;ACC33715237;Call;Client;Technical;Resolved;5,2;Yes
+2025-06-24;zanele.mabaso@bank.co.za;ACC66011809;Call;Client;Digital Banking;Resolved;4,1;Yes
+2025-01-24;thabo.mokoena@bank.co.za;ACC65593676;Call;Other;Account Maintenance;Transfer to Different Dept;44,8;No
+2025-08-16;thabo.mokoena@bank.co.za;ACC46745565;Email;Other;Technical;Resolved;5,2;Yes
+2025-02-27;zanele.mabaso@bank.co.za;ACC30689281;Email;Other;Account Maintenance;Pending;;Open
+2025-04-24;naledi.maseko@bank.co.za;ACC77993516;Call;Client;Payments;Resolved;15,3;Yes
+2025-02-21;naledi.maseko@bank.co.za;ACC23238484;Email;Other;Account Maintenance;Escalated;66,3;No
+2025-11-22;thabo.mokoena@bank.co.za;ACC88759965;Call;Other;Digital Banking;Transfer to Different Dept;24;Yes
+2025-07-30;zanele.mabaso@bank.co.za;ACC54349971;Call;Client;Payments;Transfer to Different Dept;43,8;No
+2025-05-15;thabo.mokoena@bank.co.za;ACC65537816;Call;Relationship Banker;Digital Banking;Resolved;1,5;Yes
+2025-12-26;thabo.mokoena@bank.co.za;ACC82924554;Email;Client;Onboarding;Transfer to Different Dept;28,8;No
+2025-03-16;sibusiso.khanyile@bank.co.za;ACC13818821;Call;Client;Payments;Transfer to Different Dept;27,1;No
+2025-12-19;lerato.naidoo@bank.co.za;ACC65706068;Email;Other;Digital Banking;Resolved;5;Yes
+2025-01-26;thabo.mokoena@bank.co.za;ACC79690384;Call;Other;Payments;Resolved;7,6;Yes
+2025-11-24;amanda.dlamini@bank.co.za;ACC29407062;Email;Relationship Banker;Technical;Resolved;23,6;Yes
+2025-02-21;zanele.mabaso@bank.co.za;ACC88868359;Call;Other;Account Maintenance;Resolved;17,1;Yes
+2025-12-16;lerato.naidoo@bank.co.za;ACC71470633;Email;Relationship Banker;Account Maintenance;Resolved;14,1;Yes
+2025-01-04;lerato.naidoo@bank.co.za;ACC37849604;Email;Other;Payments;Transfer to Different Dept;40,9;No
+2025-01-02;keketso.sangweni@bank.co.za;ACC15002819;Call;Client;Payments;Resolved;13,3;Yes
+2025-08-30;keketso.sangweni@bank.co.za;ACC10751061;Email;Other;Payments;Transfer to Different Dept;40,6;No
+2025-01-03;sibusiso.khanyile@bank.co.za;ACC25254407;Email;Client;Technical;Resolved;8,2;Yes
+2025-02-17;naledi.maseko@bank.co.za;ACC23048470;Call;Other;Payments;Pending;;Open
+2025-08-01;naledi.maseko@bank.co.za;ACC78539014;Email;Client;Account Maintenance;Resolved;7,4;Yes
+2025-11-24;amanda.dlamini@bank.co.za;ACC64747365;Call;Relationship Banker;Technical;Resolved;4,4;Yes
+2025-06-19;naledi.maseko@bank.co.za;ACC82989965;Email;Relationship Banker;Digital Banking;Resolved;12,5;Yes
+2025-03-04;brandon.jacobs@bank.co.za;ACC89614079;Call;Relationship Banker;Digital Banking;Transfer to Different Dept;31,7;No
+2025-02-27;zanele.mabaso@bank.co.za;ACC75115065;Email;Client;Onboarding;Escalated;45,9;No
+2025-04-12;naledi.maseko@bank.co.za;ACC44824796;Email;Relationship Banker;Onboarding;Resolved;11;Yes
+2025-01-27;lerato.naidoo@bank.co.za;ACC96866859;Email;Other;Payments;Pending;;Open
+2025-09-15;zanele.mabaso@bank.co.za;ACC53937838;Call;Client;Digital Banking;Transfer to Different Dept;18,9;Yes
+2025-03-12;sibusiso.khanyile@bank.co.za;ACC71936598;Call;Other;Technical;Transfer to Different Dept;12,9;Yes
+2025-05-11;thabo.mokoena@bank.co.za;ACC78903473;Email;Other;Digital Banking;Resolved;7,6;Yes
+2025-12-30;amanda.dlamini@bank.co.za;ACC59857168;Email;Client;Onboarding;Resolved;19,1;Yes
+2025-11-16;brandon.jacobs@bank.co.za;ACC54648101;Call;Client;Technical;Resolved;20,3;Yes
+2025-12-14;amanda.dlamini@bank.co.za;ACC45270381;Call;Relationship Banker;Account Maintenance;Resolved;17,7;Yes
+2025-11-09;thabo.mokoena@bank.co.za;ACC95973550;Call;Other;Digital Banking;Escalated;57,7;No
+2025-08-09;amanda.dlamini@bank.co.za;ACC11868461;Call;Other;Digital Banking;Resolved;2,3;Yes
+2025-07-11;naledi.maseko@bank.co.za;ACC70403959;Call;Relationship Banker;Payments;Resolved;23,6;Yes
+2025-04-16;lerato.naidoo@bank.co.za;ACC20827371;Call;Relationship Banker;Payments;Resolved;1,6;Yes
+2025-10-31;zanele.mabaso@bank.co.za;ACC41162064;Email;Relationship Banker;Payments;Transfer to Different Dept;40,1;No
+2025-11-11;naledi.maseko@bank.co.za;ACC42304436;Call;Other;Payments;Resolved;23,1;Yes
+2025-04-15;sibusiso.khanyile@bank.co.za;ACC81900602;Call;Relationship Banker;Payments;Resolved;5,2;Yes
+2025-10-22;naledi.maseko@bank.co.za;ACC91300174;Call;Other;Account Maintenance;Transfer to Different Dept;43,9;No
+2025-12-11;amanda.dlamini@bank.co.za;ACC70405214;Call;Relationship Banker;Technical;Resolved;23,4;Yes
+2025-12-20;sibusiso.khanyile@bank.co.za;ACC67710412;Call;Client;Payments;Escalated;26,6;No
+2025-02-19;lerato.naidoo@bank.co.za;ACC74859573;Call;Relationship Banker;Account Maintenance;Resolved;19,2;Yes
+2025-02-02;brandon.jacobs@bank.co.za;ACC70206420;Call;Client;Payments;Escalated;50,7;No
+2025-09-03;keketso.sangweni@bank.co.za;ACC66012531;Call;Client;Payments;Resolved;1,4;Yes
+2025-02-11;brandon.jacobs@bank.co.za;ACC35776010;Call;Relationship Banker;Account Maintenance;Transfer to Different Dept;31;No
+2025-07-27;lerato.naidoo@bank.co.za;ACC98525350;Call;Other;Payments;Escalated;45;No
+2025-04-04;brandon.jacobs@bank.co.za;ACC35455089;Email;Relationship Banker;Payments;Resolved;16,6;Yes
+2025-01-31;lerato.naidoo@bank.co.za;ACC11741697;Email;Relationship Banker;Account Maintenance;Resolved;14,9;Yes
+2025-10-18;sibusiso.khanyile@bank.co.za;ACC31140439;Email;Other;Technical;Resolved;18;Yes
+2025-02-03;amanda.dlamini@bank.co.za;ACC94937477;Email;Client;Account Maintenance;Resolved;14;Yes
+2025-06-03;zanele.mabaso@bank.co.za;ACC32835406;Call;Other;Technical;Escalated;70,8;No
+2025-09-28;thabo.mokoena@bank.co.za;ACC66858939;Call;Client;Payments;Resolved;12,9;Yes
+2025-07-14;naledi.maseko@bank.co.za;ACC58899879;Email;Client;Payments;Resolved;19,8;Yes
+2025-08-10;thabo.mokoena@bank.co.za;ACC51665203;Call;Other;Payments;Resolved;4,5;Yes
+2025-08-06;keketso.sangweni@bank.co.za;ACC96358771;Call;Relationship Banker;Onboarding;Transfer to Different Dept;25,2;No
+2025-09-11;lerato.naidoo@bank.co.za;ACC90720306;Call;Client;Technical;Transfer to Different Dept;20,1;Yes
+2025-10-31;thabo.mokoena@bank.co.za;ACC40793310;Email;Client;Technical;Resolved;16,4;Yes
+2025-05-05;sibusiso.khanyile@bank.co.za;ACC31401286;Call;Relationship Banker;Account Maintenance;Resolved;3,3;Yes
+2025-11-26;keketso.sangweni@bank.co.za;ACC86266974;Email;Other;Payments;Resolved;11,6;Yes
+2025-04-06;zanele.mabaso@bank.co.za;ACC38589575;Call;Relationship Banker;Technical;Escalated;50,8;No
+2025-06-07;keketso.sangweni@bank.co.za;ACC23942006;Email;Relationship Banker;Payments;Resolved;22,1;Yes
+2025-02-13;keketso.sangweni@bank.co.za;ACC53459269;Email;Other;Technical;Escalated;32,3;No
+2025-03-21;sibusiso.khanyile@bank.co.za;ACC42188759;Call;Client;Account Maintenance;Resolved;17,5;Yes
+2025-01-02;thabo.mokoena@bank.co.za;ACC50410553;Call;Client;Payments;Resolved;2,9;Yes
+2025-06-25;sibusiso.khanyile@bank.co.za;ACC15427334;Call;Relationship Banker;Account Maintenance;Escalated;33,3;No
+2025-05-23;sibusiso.khanyile@bank.co.za;ACC24477522;Call;Relationship Banker;Payments;Resolved;20,7;Yes
+2025-03-28;brandon.jacobs@bank.co.za;ACC76550411;Email;Relationship Banker;Onboarding;Escalated;47,9;No
+2025-02-05;keketso.sangweni@bank.co.za;ACC51275050;Call;Other;Payments;Resolved;3,6;Yes
+2025-01-14;sibusiso.khanyile@bank.co.za;ACC67431904;Email;Relationship Banker;Account Maintenance;Transfer to Different Dept;14,1;Yes
+2025-02-25;keketso.sangweni@bank.co.za;ACC89470177;Call;Client;Onboarding;Resolved;14,7;Yes
+2025-05-25;thabo.mokoena@bank.co.za;ACC82831069;Call;Relationship Banker;Payments;Resolved;5,5;Yes
+2025-06-11;naledi.maseko@bank.co.za;ACC69521087;Call;Client;Account Maintenance;Resolved;10,4;Yes
+2025-04-10;naledi.maseko@bank.co.za;ACC81981571;Call;Other;Technical;Resolved;9,2;Yes
+2025-08-07;zanele.mabaso@bank.co.za;ACC57679891;Call;Client;Payments;Resolved;15,2;Yes
+2025-12-02;sibusiso.khanyile@bank.co.za;ACC69750675;Call;Client;Payments;Transfer to Different Dept;34,8;No
+2025-08-21;thabo.mokoena@bank.co.za;ACC98808323;Call;Relationship Banker;Technical;Resolved;17,8;Yes
+2025-02-12;amanda.dlamini@bank.co.za;ACC78257845;Email;Relationship Banker;Digital Banking;Resolved;15,5;Yes
+2025-06-10;amanda.dlamini@bank.co.za;ACC72762376;Call;Client;Digital Banking;Resolved;4,6;Yes
+2025-07-24;naledi.maseko@bank.co.za;ACC96584158;Call;Relationship Banker;Payments;Escalated;31,3;No
+2025-05-11;lerato.naidoo@bank.co.za;ACC77553532;Call;Client;Onboarding;Resolved;6,4;Yes
+2025-08-22;thabo.mokoena@bank.co.za;ACC44684094;Call;Client;Onboarding;Transfer to Different Dept;22;Yes
+2025-01-11;zanele.mabaso@bank.co.za;ACC69761340;Email;Client;Account Maintenance;Transfer to Different Dept;39,9;No
+2025-12-28;naledi.maseko@bank.co.za;ACC36527562;Call;Relationship Banker;Payments;Escalated;58,1;No
+2025-08-28;keketso.sangweni@bank.co.za;ACC10291474;Email;Client;Payments;Pending;;Open
+2025-04-15;brandon.jacobs@bank.co.za;ACC50803995;Call;Other;Account Maintenance;Resolved;19,5;Yes
+2025-12-31;keketso.sangweni@bank.co.za;ACC49067829;Email;Relationship Banker;Technical;Resolved;18,2;Yes
+2025-09-25;brandon.jacobs@bank.co.za;ACC74328783;Call;Relationship Banker;Account Maintenance;Resolved;9,4;Yes
+2025-02-06;sibusiso.khanyile@bank.co.za;ACC87864859;Call;Other;Payments;Transfer to Different Dept;34,9;No
+2025-01-07;zanele.mabaso@bank.co.za;ACC31429279;Call;Relationship Banker;Account Maintenance;Resolved;7,4;Yes
+2025-11-13;keketso.sangweni@bank.co.za;ACC69291994;Call;Client;Account Maintenance;Resolved;2,3;Yes
+2025-10-14;naledi.maseko@bank.co.za;ACC63896615;Call;Client;Account Maintenance;Resolved;6,7;Yes
+2025-12-29;amanda.dlamini@bank.co.za;ACC10894387;Email;Other;Technical;Resolved;6,7;Yes
+2025-01-12;zanele.mabaso@bank.co.za;ACC79206021;Call;Other;Digital Banking;Resolved;20,4;Yes
+2025-08-28;brandon.jacobs@bank.co.za;ACC34372533;Call;Other;Account Maintenance;Resolved;17,4;Yes
+2025-08-19;thabo.mokoena@bank.co.za;ACC70464145;Call;Other;Onboarding;Resolved;15,7;Yes
+2025-01-15;keketso.sangweni@bank.co.za;ACC65824920;Email;Relationship Banker;Technical;Resolved;13,7;Yes
+2025-05-20;zanele.mabaso@bank.co.za;ACC13226273;Call;Relationship Banker;Digital Banking;Resolved;13,4;Yes
+2025-08-19;thabo.mokoena@bank.co.za;ACC36135780;Call;Client;Technical;Resolved;2,9;Yes
+2025-01-05;zanele.mabaso@bank.co.za;ACC57754683;Call;Other;Technical;Resolved;15,5;Yes
+2025-06-26;sibusiso.khanyile@bank.co.za;ACC76001429;Call;Relationship Banker;Onboarding;Resolved;20,3;Yes
+2025-05-06;sibusiso.khanyile@bank.co.za;ACC99963869;Call;Other;Onboarding;Transfer to Different Dept;24,6;No
+2025-11-25;amanda.dlamini@bank.co.za;ACC35480928;Call;Client;Technical;Transfer to Different Dept;43;No
+2025-05-15;keketso.sangweni@bank.co.za;ACC21283976;Call;Client;Onboarding;Resolved;14,3;Yes
+2025-10-20;naledi.maseko@bank.co.za;ACC61126800;Call;Client;Payments;Resolved;3,5;Yes
+2025-08-06;thabo.mokoena@bank.co.za;ACC66648474;Email;Other;Technical;Resolved;2,8;Yes
+2025-03-01;naledi.maseko@bank.co.za;ACC81553440;Call;Relationship Banker;Payments;Resolved;15,8;Yes
+2025-04-14;zanele.mabaso@bank.co.za;ACC33041661;Call;Relationship Banker;Payments;Transfer to Different Dept;46,7;No
+2025-06-02;keketso.sangweni@bank.co.za;ACC17180483;Email;Client;Technical;Resolved;17,4;Yes
+2025-02-12;keketso.sangweni@bank.co.za;ACC79727534;Call;Client;Digital Banking;Transfer to Different Dept;23,3;Yes
+2025-01-21;lerato.naidoo@bank.co.za;ACC76460334;Call;Client;Onboarding;Resolved;2,7;Yes
+2025-08-04;naledi.maseko@bank.co.za;ACC65564996;Call;Client;Payments;Resolved;20,6;Yes
+2025-03-06;thabo.mokoena@bank.co.za;ACC93296787;Call;Client;Account Maintenance;Resolved;17,5;Yes
+2025-08-19;lerato.naidoo@bank.co.za;ACC56394669;Call;Relationship Banker;Account Maintenance;Escalated;54,9;No
+2025-11-14;zanele.mabaso@bank.co.za;ACC39514775;Call;Relationship Banker;Technical;Resolved;17,4;Yes
+2025-07-14;brandon.jacobs@bank.co.za;ACC62087168;Call;Client;Payments;Resolved;22,6;Yes
+2025-11-29;amanda.dlamini@bank.co.za;ACC45841387;Email;Client;Technical;Pending;;Open
+2025-09-14;sibusiso.khanyile@bank.co.za;ACC91849101;Email;Other;Onboarding;Escalated;71,2;No
+2025-02-07;sibusiso.khanyile@bank.co.za;ACC94124910;Call;Client;Onboarding;Resolved;7,4;Yes
+2025-03-13;zanele.mabaso@bank.co.za;ACC23683227;Call;Other;Payments;Resolved;14,8;Yes
+2025-07-09;naledi.maseko@bank.co.za;ACC16080647;Call;Other;Account Maintenance;Resolved;20;Yes
+2025-05-25;lerato.naidoo@bank.co.za;ACC11431498;Call;Relationship Banker;Payments;Transfer to Different Dept;42,6;No
+2025-04-16;brandon.jacobs@bank.co.za;ACC81967870;Email;Other;Technical;Resolved;7,1;Yes
+2025-01-08;lerato.naidoo@bank.co.za;ACC96036905;Call;Other;Account Maintenance;Transfer to Different Dept;39,7;No
+2025-06-14;lerato.naidoo@bank.co.za;ACC93262274;Call;Client;Payments;Resolved;19,7;Yes
+2025-07-06;keketso.sangweni@bank.co.za;ACC91050654;Call;Client;Payments;Escalated;24,4;No
+2025-03-18;lerato.naidoo@bank.co.za;ACC72862755;Call;Relationship Banker;Onboarding;Resolved;8,1;Yes
+2025-10-19;lerato.naidoo@bank.co.za;ACC18903649;Email;Other;Technical;Escalated;33,6;No
+2025-04-17;naledi.maseko@bank.co.za;ACC32304410;Call;Client;Payments;Resolved;6,8;Yes
+2025-08-13;keketso.sangweni@bank.co.za;ACC25212776;Call;Client;Onboarding;Resolved;12,6;Yes
+2025-03-24;thabo.mokoena@bank.co.za;ACC65500122;Call;Other;Digital Banking;Escalated;55,4;No
+2025-01-19;amanda.dlamini@bank.co.za;ACC36659375;Call;Client;Account Maintenance;Resolved;3,3;Yes
+2025-08-24;naledi.maseko@bank.co.za;ACC36187533;Call;Relationship Banker;Onboarding;Transfer to Different Dept;19,7;Yes
+2025-02-27;lerato.naidoo@bank.co.za;ACC62589522;Email;Other;Payments;Resolved;21,6;Yes
+2025-01-13;amanda.dlamini@bank.co.za;ACC30197562;Call;Client;Payments;Escalated;60,3;No
+2025-05-29;thabo.mokoena@bank.co.za;ACC70125050;Call;Client;Payments;Resolved;9,2;Yes
+2025-07-11;zanele.mabaso@bank.co.za;ACC50231618;Email;Relationship Banker;Account Maintenance;Escalated;71,8;No
+2025-09-06;keketso.sangweni@bank.co.za;ACC37528786;Call;Relationship Banker;Account Maintenance;Resolved;15,9;Yes
+2025-03-18;zanele.mabaso@bank.co.za;ACC40607915;Email;Other;Account Maintenance;Resolved;14,1;Yes
+2025-01-10;zanele.mabaso@bank.co.za;ACC88770822;Email;Other;Payments;Resolved;13,7;Yes
+2025-10-29;naledi.maseko@bank.co.za;ACC56901935;Call;Other;Technical;Resolved;17,4;Yes
+2025-03-14;zanele.mabaso@bank.co.za;ACC93622433;Call;Other;Payments;Resolved;19;Yes
+2025-01-20;brandon.jacobs@bank.co.za;ACC88835085;Email;Client;Onboarding;Resolved;17,1;Yes
+2025-05-18;brandon.jacobs@bank.co.za;ACC56682508;Call;Relationship Banker;Payments;Resolved;13;Yes
+2025-06-19;naledi.maseko@bank.co.za;ACC49712180;Call;Other;Payments;Resolved;10,6;Yes
+2025-10-24;amanda.dlamini@bank.co.za;ACC93321864;Call;Other;Payments;Escalated;36,5;No
+2025-04-23;naledi.maseko@bank.co.za;ACC21220901;Email;Client;Account Maintenance;Escalated;56,9;No
+2025-04-23;brandon.jacobs@bank.co.za;ACC74000932;Call;Other;Technical;Escalated;29,5;No
+2025-09-07;amanda.dlamini@bank.co.za;ACC68307372;Call;Relationship Banker;Payments;Resolved;14,3;Yes
+2025-05-02;thabo.mokoena@bank.co.za;ACC41743477;Call;Other;Payments;Resolved;9,3;Yes
+2025-01-10;thabo.mokoena@bank.co.za;ACC98027635;Call;Client;Account Maintenance;Resolved;10,5;Yes
+2025-07-05;amanda.dlamini@bank.co.za;ACC77938816;Call;Client;Onboarding;Resolved;5,1;Yes
+2025-07-30;amanda.dlamini@bank.co.za;ACC52534602;Call;Relationship Banker;Onboarding;Escalated;68,7;No
+2025-09-14;thabo.mokoena@bank.co.za;ACC71332425;Call;Relationship Banker;Onboarding;Resolved;3,2;Yes
+2025-01-11;brandon.jacobs@bank.co.za;ACC65864819;Email;Client;Account Maintenance;Pending;;Open
+2025-01-05;thabo.mokoena@bank.co.za;ACC24751174;Call;Other;Digital Banking;Resolved;3,1;Yes
+2025-10-14;keketso.sangweni@bank.co.za;ACC74802958;Call;Other;Payments;Resolved;17,6;Yes
+2025-01-12;naledi.maseko@bank.co.za;ACC80793801;Call;Client;Account Maintenance;Resolved;18;Yes
+2025-11-27;amanda.dlamini@bank.co.za;ACC32597799;Call;Client;Payments;Resolved;17,9;Yes
+2025-09-24;amanda.dlamini@bank.co.za;ACC31750234;Call;Relationship Banker;Account Maintenance;Resolved;12,1;Yes
+2025-09-30;naledi.maseko@bank.co.za;ACC82134409;Email;Client;Onboarding;Pending;;Open
+2025-06-11;naledi.maseko@bank.co.za;ACC77452278;Call;Other;Technical;Escalated;34,5;No
+2025-07-13;naledi.maseko@bank.co.za;ACC87980962;Email;Other;Onboarding;Resolved;13,1;Yes
+2025-05-27;lerato.naidoo@bank.co.za;ACC26054933;Email;Other;Account Maintenance;Pending;;Open
+2025-02-21;brandon.jacobs@bank.co.za;ACC27961616;Email;Other;Account Maintenance;Resolved;13,6;Yes
+2025-02-16;naledi.maseko@bank.co.za;ACC38323068;Call;Other;Technical;Resolved;3,2;Yes
+2025-12-05;zanele.mabaso@bank.co.za;ACC66643041;Email;Relationship Banker;Technical;Resolved;9,9;Yes
+2025-05-06;thabo.mokoena@bank.co.za;ACC69388875;Call;Other;Payments;Resolved;9,9;Yes
+2025-10-21;brandon.jacobs@bank.co.za;ACC48245526;Call;Other;Payments;Escalated;32;No
+2025-03-04;zanele.mabaso@bank.co.za;ACC23007467;Call;Client;Payments;Transfer to Different Dept;19,5;Yes
+2025-07-09;thabo.mokoena@bank.co.za;ACC65072269;Email;Relationship Banker;Digital Banking;Escalated;32,8;No
+2025-02-25;sibusiso.khanyile@bank.co.za;ACC14061169;Call;Other;Payments;Resolved;8,7;Yes
+2025-08-22;keketso.sangweni@bank.co.za;ACC64889221;Email;Relationship Banker;Payments;Resolved;7,2;Yes
+2025-07-23;sibusiso.khanyile@bank.co.za;ACC80769651;Call;Client;Digital Banking;Transfer to Different Dept;27;No
+2025-10-26;brandon.jacobs@bank.co.za;ACC94635761;Call;Relationship Banker;Onboarding;Resolved;18,8;Yes
+2025-02-13;zanele.mabaso@bank.co.za;ACC67379753;Call;Relationship Banker;Onboarding;Resolved;16,6;Yes
+2025-12-04;amanda.dlamini@bank.co.za;ACC98616304;Call;Client;Payments;Resolved;13,5;Yes
+2025-03-21;sibusiso.khanyile@bank.co.za;ACC76482228;Call;Relationship Banker;Account Maintenance;Escalated;45,5;No
+2025-01-29;zanele.mabaso@bank.co.za;ACC89016754;Call;Relationship Banker;Onboarding;Resolved;17,7;Yes
+2025-04-06;lerato.naidoo@bank.co.za;ACC57542462;Call;Other;Technical;Resolved;21,4;Yes
+2025-04-16;naledi.maseko@bank.co.za;ACC59614409;Call;Other;Payments;Resolved;13,3;Yes
+2025-03-05;thabo.mokoena@bank.co.za;ACC91994213;Call;Relationship Banker;Account Maintenance;Resolved;21,4;Yes
+2025-05-19;thabo.mokoena@bank.co.za;ACC53135164;Call;Client;Account Maintenance;Resolved;20,4;Yes
+2025-04-23;lerato.naidoo@bank.co.za;ACC66691571;Call;Other;Payments;Pending;;Open
+2025-01-09;thabo.mokoena@bank.co.za;ACC89052162;Call;Client;Digital Banking;Transfer to Different Dept;12,4;Yes
+2025-04-03;keketso.sangweni@bank.co.za;ACC77935982;Call;Relationship Banker;Onboarding;Resolved;6,8;Yes
+2025-11-23;amanda.dlamini@bank.co.za;ACC51229898;Call;Other;Technical;Resolved;11,4;Yes
+2025-12-27;zanele.mabaso@bank.co.za;ACC46592635;Call;Client;Technical;Resolved;20,9;Yes
+2025-10-29;brandon.jacobs@bank.co.za;ACC67040224;Call;Other;Account Maintenance;Resolved;21,8;Yes
+2025-11-22;lerato.naidoo@bank.co.za;ACC10123312;Call;Other;Technical;Escalated;59,7;No
+2025-12-28;sibusiso.khanyile@bank.co.za;ACC29563736;Call;Client;Payments;Resolved;4,3;Yes
+2025-02-26;thabo.mokoena@bank.co.za;ACC85578444;Call;Other;Payments;Resolved;3,2;Yes
+2025-07-23;lerato.naidoo@bank.co.za;ACC11146600;Email;Other;Technical;Resolved;23,6;Yes
+2025-09-29;keketso.sangweni@bank.co.za;ACC70039844;Email;Client;Technical;Resolved;12,4;Yes
+2025-05-21;naledi.maseko@bank.co.za;ACC97417206;Email;Client;Technical;Resolved;10,1;Yes
+2025-11-26;zanele.mabaso@bank.co.za;ACC70698030;Call;Other;Account Maintenance;Escalated;56,8;No
+2025-10-05;zanele.mabaso@bank.co.za;ACC64527368;Email;Other;Account Maintenance;Resolved;4,6;Yes
+2025-06-15;sibusiso.khanyile@bank.co.za;ACC11284629;Call;Client;Account Maintenance;Resolved;22;Yes
+2025-11-03;zanele.mabaso@bank.co.za;ACC89783880;Call;Relationship Banker;Payments;Resolved;2,4;Yes
+2025-09-02;brandon.jacobs@bank.co.za;ACC99407913;Email;Client;Payments;Pending;;Open
+2025-04-16;zanele.mabaso@bank.co.za;ACC97828463;Email;Relationship Banker;Technical;Transfer to Different Dept;34,6;No
+2025-09-10;sibusiso.khanyile@bank.co.za;ACC56274323;Call;Client;Technical;Resolved;6;Yes
+2025-02-22;naledi.maseko@bank.co.za;ACC83219913;Call;Other;Technical;Resolved;22,2;Yes
+2025-02-23;lerato.naidoo@bank.co.za;ACC43468301;Call;Client;Payments;Resolved;10,9;Yes
+2025-07-06;naledi.maseko@bank.co.za;ACC63968645;Call;Other;Technical;Resolved;6,9;Yes
+2025-04-20;thabo.mokoena@bank.co.za;ACC38717163;Email;Relationship Banker;Technical;Resolved;16,8;Yes
+2025-01-26;zanele.mabaso@bank.co.za;ACC76969109;Email;Other;Payments;Resolved;7,9;Yes
+2025-10-22;thabo.mokoena@bank.co.za;ACC28359266;Call;Client;Technical;Resolved;13,7;Yes
+2025-01-13;keketso.sangweni@bank.co.za;ACC66434100;Call;Other;Technical;Resolved;10,1;Yes
+2025-03-04;brandon.jacobs@bank.co.za;ACC95064767;Call;Other;Payments;Transfer to Different Dept;34;No
+2025-01-23;lerato.naidoo@bank.co.za;ACC54642709;Email;Other;Technical;Resolved;12,7;Yes
+2025-11-11;sibusiso.khanyile@bank.co.za;ACC47760020;Call;Other;Onboarding;Resolved;10,7;Yes
+2025-08-19;sibusiso.khanyile@bank.co.za;ACC31602167;Email;Other;Onboarding;Resolved;11,3;Yes
+2025-09-30;naledi.maseko@bank.co.za;ACC43442508;Email;Relationship Banker;Onboarding;Resolved;23,4;Yes
+2025-12-09;keketso.sangweni@bank.co.za;ACC75242606;Email;Client;Account Maintenance;Escalated;65,3;No
+2025-06-16;keketso.sangweni@bank.co.za;ACC87846442;Email;Client;Onboarding;Resolved;2,9;Yes
+2025-11-09;thabo.mokoena@bank.co.za;ACC82367169;Email;Relationship Banker;Digital Banking;Resolved;17,2;Yes
+2025-10-15;sibusiso.khanyile@bank.co.za;ACC70338540;Call;Client;Onboarding;Resolved;4,2;Yes
+2025-07-02;brandon.jacobs@bank.co.za;ACC16192705;Call;Client;Technical;Resolved;10,7;Yes
+2025-01-17;naledi.maseko@bank.co.za;ACC40154471;Call;Relationship Banker;Account Maintenance;Resolved;23,4;Yes
+2025-12-06;thabo.mokoena@bank.co.za;ACC58403997;Call;Client;Technical;Resolved;16,8;Yes
+2025-01-23;zanele.mabaso@bank.co.za;ACC99099182;Call;Other;Account Maintenance;Pending;;Open
+2025-01-05;brandon.jacobs@bank.co.za;ACC14151132;Call;Other;Digital Banking;Resolved;3,3;Yes
+2025-09-23;thabo.mokoena@bank.co.za;ACC16276422;Call;Other;Payments;Escalated;34;No
+2025-04-22;lerato.naidoo@bank.co.za;ACC80380470;Call;Relationship Banker;Payments;Resolved;5,9;Yes
+2025-06-24;amanda.dlamini@bank.co.za;ACC82706650;Call;Client;Technical;Escalated;53,5;No
+2025-07-04;keketso.sangweni@bank.co.za;ACC11240833;Email;Client;Payments;Resolved;3,2;Yes
+2025-08-08;thabo.mokoena@bank.co.za;ACC50420243;Call;Relationship Banker;Technical;Resolved;8,5;Yes
+2025-08-01;sibusiso.khanyile@bank.co.za;ACC40996694;Call;Other;Technical;Transfer to Different Dept;39,2;No
+2025-02-23;lerato.naidoo@bank.co.za;ACC45029930;Call;Relationship Banker;Technical;Resolved;5,1;Yes
+2025-06-10;amanda.dlamini@bank.co.za;ACC55082460;Email;Other;Payments;Resolved;5,3;Yes
+2025-03-28;keketso.sangweni@bank.co.za;ACC19206552;Email;Relationship Banker;Payments;Resolved;19,5;Yes
+2025-05-14;thabo.mokoena@bank.co.za;ACC21053745;Email;Relationship Banker;Technical;Resolved;15,9;Yes
+2025-08-09;naledi.maseko@bank.co.za;ACC78851792;Call;Other;Account Maintenance;Resolved;5;Yes
+2025-11-01;sibusiso.khanyile@bank.co.za;ACC26729235;Call;Client;Account Maintenance;Resolved;23,7;Yes
+2025-04-10;zanele.mabaso@bank.co.za;ACC13135828;Call;Relationship Banker;Onboarding;Resolved;8,8;Yes
+2025-08-23;amanda.dlamini@bank.co.za;ACC47260922;Call;Relationship Banker;Payments;Resolved;3,9;Yes
+2025-12-08;thabo.mokoena@bank.co.za;ACC49491813;Call;Other;Payments;Resolved;13,4;Yes
+2025-06-07;brandon.jacobs@bank.co.za;ACC79908434;Email;Client;Onboarding;Resolved;19,1;Yes
+2025-07-11;thabo.mokoena@bank.co.za;ACC23913793;Call;Other;Onboarding;Resolved;11,7;Yes
+2025-02-01;zanele.mabaso@bank.co.za;ACC97418212;Call;Other;Onboarding;Resolved;19,9;Yes
+2025-04-14;zanele.mabaso@bank.co.za;ACC37831115;Email;Relationship Banker;Payments;Resolved;16,4;Yes
+2025-04-27;sibusiso.khanyile@bank.co.za;ACC46287351;Email;Relationship Banker;Digital Banking;Resolved;3,5;Yes
+2025-11-16;sibusiso.khanyile@bank.co.za;ACC65701373;Call;Client;Technical;Transfer to Different Dept;28,2;No
+2025-10-23;naledi.maseko@bank.co.za;ACC13299974;Email;Other;Digital Banking;Resolved;10,9;Yes
+2025-10-01;lerato.naidoo@bank.co.za;ACC35232402;Email;Client;Account Maintenance;Resolved;18,8;Yes
+2025-01-26;lerato.naidoo@bank.co.za;ACC81448936;Call;Client;Payments;Transfer to Different Dept;44,2;No
+2025-06-21;zanele.mabaso@bank.co.za;ACC62828007;Call;Client;Account Maintenance;Resolved;17,3;Yes
+2025-07-10;keketso.sangweni@bank.co.za;ACC53565372;Email;Client;Technical;Escalated;48,4;No
+2025-03-22;naledi.maseko@bank.co.za;ACC83579419;Email;Other;Onboarding;Resolved;11,3;Yes
+2025-06-25;lerato.naidoo@bank.co.za;ACC22328609;Call;Other;Onboarding;Resolved;6,2;Yes
+2025-05-20;amanda.dlamini@bank.co.za;ACC29253443;Call;Client;Digital Banking;Resolved;20,3;Yes
+2025-09-07;amanda.dlamini@bank.co.za;ACC29583646;Call;Client;Technical;Resolved;9,9;Yes
+2025-03-31;zanele.mabaso@bank.co.za;ACC94461950;Email;Other;Payments;Transfer to Different Dept;20,9;Yes
+2025-05-16;zanele.mabaso@bank.co.za;ACC90207564;Call;Client;Onboarding;Transfer to Different Dept;23;Yes
+2025-07-19;zanele.mabaso@bank.co.za;ACC37516758;Call;Client;Account Maintenance;Resolved;17,3;Yes
+2025-09-08;thabo.mokoena@bank.co.za;ACC98161382;Email;Other;Technical;Resolved;8,9;Yes
+2025-11-20;amanda.dlamini@bank.co.za;ACC42745123;Call;Relationship Banker;Payments;Resolved;13,4;Yes
+2025-02-19;sibusiso.khanyile@bank.co.za;ACC82558255;Call;Other;Account Maintenance;Escalated;48,3;No
+2025-01-11;brandon.jacobs@bank.co.za;ACC17182102;Call;Relationship Banker;Technical;Transfer to Different Dept;46,7;No
+2025-03-20;keketso.sangweni@bank.co.za;ACC81390035;Call;Relationship Banker;Technical;Resolved;4,7;Yes
+2025-11-05;keketso.sangweni@bank.co.za;ACC99737780;Call;Client;Account Maintenance;Pending;;Open
+2025-01-15;amanda.dlamini@bank.co.za;ACC34693020;Call;Client;Onboarding;Resolved;7,4;Yes
+2025-05-25;lerato.naidoo@bank.co.za;ACC60914942;Call;Other;Digital Banking;Escalated;58;No
+2025-06-17;thabo.mokoena@bank.co.za;ACC37892417;Email;Relationship Banker;Payments;Resolved;3,5;Yes
+2025-04-22;thabo.mokoena@bank.co.za;ACC75735508;Email;Client;Payments;Resolved;14,8;Yes
+2025-08-30;zanele.mabaso@bank.co.za;ACC24498251;Email;Other;Payments;Resolved;10,6;Yes
+2025-12-30;lerato.naidoo@bank.co.za;ACC82299693;Call;Relationship Banker;Account Maintenance;Resolved;14,9;Yes
+2025-10-21;lerato.naidoo@bank.co.za;ACC91458858;Email;Other;Account Maintenance;Resolved;21;Yes
+2025-06-15;sibusiso.khanyile@bank.co.za;ACC94544524;Email;Other;Account Maintenance;Pending;;Open
+2025-12-08;zanele.mabaso@bank.co.za;ACC27697744;Call;Other;Payments;Escalated;32,8;No
+2025-11-29;keketso.sangweni@bank.co.za;ACC54190510;Email;Other;Onboarding;Transfer to Different Dept;22,7;Yes
+2025-06-06;naledi.maseko@bank.co.za;ACC80788781;Call;Relationship Banker;Technical;Escalated;35,8;No
+2025-11-17;brandon.jacobs@bank.co.za;ACC17087863;Call;Client;Onboarding;Pending;;Open
+2025-04-12;amanda.dlamini@bank.co.za;ACC90961627;Call;Other;Digital Banking;Resolved;7,2;Yes
+2025-06-28;keketso.sangweni@bank.co.za;ACC26131755;Call;Relationship Banker;Payments;Resolved;13;Yes
+2025-01-02;brandon.jacobs@bank.co.za;ACC28573821;Call;Relationship Banker;Technical;Resolved;14,4;Yes
+2025-12-14;zanele.mabaso@bank.co.za;ACC88524030;Email;Client;Onboarding;Escalated;25,1;No
+2025-10-22;lerato.naidoo@bank.co.za;ACC36776979;Call;Other;Payments;Resolved;2,2;Yes
+2025-03-16;sibusiso.khanyile@bank.co.za;ACC88848244;Email;Other;Payments;Resolved;12,7;Yes
+2025-06-13;lerato.naidoo@bank.co.za;ACC54209927;Call;Other;Digital Banking;Resolved;20;Yes
+2025-05-17;sibusiso.khanyile@bank.co.za;ACC51130955;Email;Other;Digital Banking;Escalated;50,8;No
+2025-05-05;sibusiso.khanyile@bank.co.za;ACC23350311;Call;Relationship Banker;Digital Banking;Resolved;11,9;Yes
+2025-11-18;naledi.maseko@bank.co.za;ACC97354300;Email;Other;Payments;Resolved;3,1;Yes
+2025-05-01;thabo.mokoena@bank.co.za;ACC90374180;Email;Client;Payments;Resolved;9,6;Yes
+2025-12-14;brandon.jacobs@bank.co.za;ACC57952687;Call;Other;Account Maintenance;Resolved;18;Yes
+2025-06-05;sibusiso.khanyile@bank.co.za;ACC11597472;Call;Other;Onboarding;Resolved;17,5;Yes
+2025-09-07;lerato.naidoo@bank.co.za;ACC45663807;Call;Other;Digital Banking;Resolved;2,9;Yes
+2025-10-06;sibusiso.khanyile@bank.co.za;ACC41385999;Call;Relationship Banker;Payments;Resolved;17,1;Yes
+2025-08-18;naledi.maseko@bank.co.za;ACC61520998;Call;Other;Digital Banking;Transfer to Different Dept;29,2;No
+2025-05-10;zanele.mabaso@bank.co.za;ACC48152443;Email;Relationship Banker;Digital Banking;Escalated;46,7;No
+2025-06-27;zanele.mabaso@bank.co.za;ACC95944536;Email;Other;Technical;Resolved;1,1;Yes
+2025-06-07;amanda.dlamini@bank.co.za;ACC34949848;Call;Relationship Banker;Digital Banking;Escalated;40,2;No
+2025-06-24;keketso.sangweni@bank.co.za;ACC28548766;Call;Other;Technical;Escalated;47,7;No
+2025-01-18;lerato.naidoo@bank.co.za;ACC25673207;Call;Other;Payments;Resolved;18,5;Yes
+2025-07-06;lerato.naidoo@bank.co.za;ACC75066397;Email;Client;Payments;Resolved;3,8;Yes
+2025-11-04;brandon.jacobs@bank.co.za;ACC59123340;Call;Relationship Banker;Technical;Resolved;13,8;Yes
+2025-05-28;sibusiso.khanyile@bank.co.za;ACC82986336;Email;Other;Digital Banking;Escalated;32,3;No
+2025-12-03;naledi.maseko@bank.co.za;ACC83243313;Call;Client;Technical;Resolved;11,7;Yes
+2025-04-13;lerato.naidoo@bank.co.za;ACC23756422;Call;Relationship Banker;Payments;Resolved;15,6;Yes
+2025-07-13;amanda.dlamini@bank.co.za;ACC98478408;Call;Client;Onboarding;Resolved;11,9;Yes
+2025-03-31;naledi.maseko@bank.co.za;ACC25316121;Call;Client;Account Maintenance;Escalated;43,2;No
+2025-09-06;thabo.mokoena@bank.co.za;ACC62071980;Email;Client;Payments;Escalated;65,2;No
+2025-02-27;sibusiso.khanyile@bank.co.za;ACC99920455;Call;Relationship Banker;Digital Banking;Resolved;15,8;Yes
+2025-12-02;amanda.dlamini@bank.co.za;ACC46798757;Call;Other;Account Maintenance;Resolved;4,8;Yes
+2025-07-19;sibusiso.khanyile@bank.co.za;ACC62242367;Email;Relationship Banker;Payments;Resolved;17;Yes
+2025-10-07;naledi.maseko@bank.co.za;ACC78569416;Email;Relationship Banker;Payments;Resolved;1,8;Yes
+2025-09-06;lerato.naidoo@bank.co.za;ACC58320568;Call;Client;Payments;Resolved;20,7;Yes
+2025-03-03;naledi.maseko@bank.co.za;ACC79330039;Email;Client;Technical;Resolved;23,1;Yes
+2025-12-15;naledi.maseko@bank.co.za;ACC68600631;Email;Relationship Banker;Technical;Resolved;18,3;Yes
+2025-01-26;brandon.jacobs@bank.co.za;ACC56772993;Call;Relationship Banker;Technical;Resolved;18,3;Yes
+2025-09-12;zanele.mabaso@bank.co.za;ACC80395732;Call;Other;Onboarding;Escalated;37,5;No
+2025-11-07;sibusiso.khanyile@bank.co.za;ACC85493346;Email;Other;Digital Banking;Resolved;11,9;Yes
+2025-01-14;zanele.mabaso@bank.co.za;ACC67788170;Call;Relationship Banker;Onboarding;Transfer to Different Dept;45,5;No
+2025-01-23;amanda.dlamini@bank.co.za;ACC46626047;Call;Relationship Banker;Technical;Resolved;14;Yes
+2025-08-21;brandon.jacobs@bank.co.za;ACC85956392;Call;Other;Onboarding;Resolved;22,7;Yes
+2025-08-08;amanda.dlamini@bank.co.za;ACC42377544;Email;Other;Payments;Resolved;8,2;Yes
+2025-10-28;zanele.mabaso@bank.co.za;ACC17652023;Email;Relationship Banker;Digital Banking;Resolved;23,3;Yes
+2025-10-12;naledi.maseko@bank.co.za;ACC41801311;Call;Other;Payments;Resolved;14,3;Yes
+2025-12-07;lerato.naidoo@bank.co.za;ACC78408421;Call;Client;Payments;Escalated;59,8;No
+2025-05-08;thabo.mokoena@bank.co.za;ACC30459955;Call;Relationship Banker;Account Maintenance;Resolved;2,3;Yes
+2025-12-20;naledi.maseko@bank.co.za;ACC92103336;Email;Other;Technical;Resolved;14,8;Yes
+2025-10-05;zanele.mabaso@bank.co.za;ACC82513284;Email;Other;Payments;Escalated;61,9;No
+2025-12-06;zanele.mabaso@bank.co.za;ACC30639443;Call;Client;Onboarding;Escalated;30,3;No
+2025-11-12;keketso.sangweni@bank.co.za;ACC62076793;Email;Relationship Banker;Payments;Resolved;17,5;Yes
+2025-05-26;keketso.sangweni@bank.co.za;ACC40046017;Email;Relationship Banker;Payments;Resolved;10,1;Yes
+2025-04-28;naledi.maseko@bank.co.za;ACC96294256;Call;Other;Technical;Resolved;9,6;Yes
+2025-09-23;lerato.naidoo@bank.co.za;ACC79300114;Email;Client;Digital Banking;Resolved;18,6;Yes
+2025-07-05;brandon.jacobs@bank.co.za;ACC38098346;Call;Client;Technical;Escalated;32,3;No
+2025-10-08;sibusiso.khanyile@bank.co.za;ACC87575442;Call;Client;Account Maintenance;Escalated;60,3;No
+2025-08-06;naledi.maseko@bank.co.za;ACC94928151;Email;Client;Digital Banking;Resolved;23;Yes
+2025-02-27;thabo.mokoena@bank.co.za;ACC40363306;Email;Relationship Banker;Payments;Pending;;Open
+2025-02-27;sibusiso.khanyile@bank.co.za;ACC64279447;Email;Client;Technical;Resolved;13,4;Yes
+2025-02-14;naledi.maseko@bank.co.za;ACC78524943;Email;Other;Onboarding;Transfer to Different Dept;44,1;No
+2025-09-13;lerato.naidoo@bank.co.za;ACC25016470;Call;Relationship Banker;Account Maintenance;Resolved;7,1;Yes
+2025-07-04;naledi.maseko@bank.co.za;ACC23947599;Call;Client;Payments;Escalated;32,6;No
+2025-06-18;naledi.maseko@bank.co.za;ACC11624488;Call;Relationship Banker;Technical;Resolved;15,6;Yes
+2025-07-08;thabo.mokoena@bank.co.za;ACC42648501;Call;Other;Payments;Resolved;22,3;Yes
+2025-07-27;naledi.maseko@bank.co.za;ACC26821083;Call;Other;Technical;Resolved;20,6;Yes
+2025-06-23;thabo.mokoena@bank.co.za;ACC17334879;Call;Client;Digital Banking;Escalated;32,9;No
+2025-10-22;zanele.mabaso@bank.co.za;ACC98934916;Call;Client;Onboarding;Resolved;5;Yes
+2025-04-10;sibusiso.khanyile@bank.co.za;ACC17507965;Email;Relationship Banker;Payments;Transfer to Different Dept;20,4;Yes
+2025-05-04;amanda.dlamini@bank.co.za;ACC31342804;Email;Other;Account Maintenance;Resolved;8,3;Yes
+2025-11-28;sibusiso.khanyile@bank.co.za;ACC44256970;Call;Other;Technical;Resolved;10,4;Yes
+2025-12-15;keketso.sangweni@bank.co.za;ACC81966122;Email;Relationship Banker;Payments;Resolved;5,3;Yes
+2025-03-26;brandon.jacobs@bank.co.za;ACC55125863;Email;Client;Technical;Resolved;7,8;Yes
+2025-11-10;thabo.mokoena@bank.co.za;ACC17519173;Call;Relationship Banker;Digital Banking;Transfer to Different Dept;23,8;Yes
+2025-10-20;zanele.mabaso@bank.co.za;ACC76698184;Call;Other;Technical;Resolved;18,9;Yes
+2025-03-31;sibusiso.khanyile@bank.co.za;ACC57658614;Call;Other;Account Maintenance;Resolved;3,1;Yes
+2025-02-28;zanele.mabaso@bank.co.za;ACC98803835;Email;Client;Account Maintenance;Resolved;18,5;Yes
+2025-09-14;naledi.maseko@bank.co.za;ACC34055472;Email;Client;Technical;Pending;;Open
+2025-05-26;naledi.maseko@bank.co.za;ACC43188964;Call;Other;Account Maintenance;Resolved;20,3;Yes
+2025-01-13;sibusiso.khanyile@bank.co.za;ACC75867212;Email;Other;Digital Banking;Pending;;Open
+2025-07-27;zanele.mabaso@bank.co.za;ACC59141906;Call;Client;Technical;Resolved;13,3;Yes
+2025-04-04;lerato.naidoo@bank.co.za;ACC63924666;Call;Client;Technical;Resolved;3,5;Yes
+2025-11-03;thabo.mokoena@bank.co.za;ACC64804366;Call;Client;Account Maintenance;Transfer to Different Dept;13,1;Yes
+2025-01-03;amanda.dlamini@bank.co.za;ACC26575034;Email;Other;Onboarding;Escalated;68,9;No
+2025-11-03;zanele.mabaso@bank.co.za;ACC87586620;Call;Client;Account Maintenance;Resolved;5,8;Yes
+2025-11-02;sibusiso.khanyile@bank.co.za;ACC51227077;Call;Other;Onboarding;Resolved;21,4;Yes
+2025-06-15;sibusiso.khanyile@bank.co.za;ACC18501526;Call;Client;Technical;Transfer to Different Dept;17,2;Yes
+2025-12-29;brandon.jacobs@bank.co.za;ACC45461222;Email;Other;Technical;Pending;;Open
+2025-10-15;sibusiso.khanyile@bank.co.za;ACC73910647;Call;Other;Technical;Resolved;12,8;Yes
+2025-06-01;naledi.maseko@bank.co.za;ACC71437377;Call;Relationship Banker;Onboarding;Resolved;4,4;Yes
+2025-06-04;thabo.mokoena@bank.co.za;ACC19430806;Call;Other;Payments;Escalated;34,5;No
+2025-01-18;naledi.maseko@bank.co.za;ACC58113408;Email;Other;Onboarding;Escalated;35;No
+2025-02-06;sibusiso.khanyile@bank.co.za;ACC64072393;Email;Other;Onboarding;Transfer to Different Dept;32,5;No
+2025-10-30;sibusiso.khanyile@bank.co.za;ACC77582495;Call;Relationship Banker;Onboarding;Escalated;45,4;No
+2025-10-24;sibusiso.khanyile@bank.co.za;ACC82573754;Call;Relationship Banker;Onboarding;Escalated;47,4;No
+2025-03-26;lerato.naidoo@bank.co.za;ACC61356751;Email;Relationship Banker;Technical;Resolved;18,8;Yes
+2025-10-10;lerato.naidoo@bank.co.za;ACC71715126;Call;Relationship Banker;Digital Banking;Escalated;61,8;No
+2025-08-11;brandon.jacobs@bank.co.za;ACC77663994;Call;Relationship Banker;Payments;Resolved;13,8;Yes
+2025-10-01;brandon.jacobs@bank.co.za;ACC77351651;Call;Other;Payments;Pending;;Open
+2025-04-23;amanda.dlamini@bank.co.za;ACC89712148;Call;Other;Technical;Escalated;35,7;No
+2025-11-08;amanda.dlamini@bank.co.za;ACC12996182;Call;Client;Payments;Transfer to Different Dept;19,1;Yes
+2025-03-23;lerato.naidoo@bank.co.za;ACC61449802;Email;Other;Account Maintenance;Transfer to Different Dept;32,2;No
+2025-05-06;sibusiso.khanyile@bank.co.za;ACC50698651;Email;Other;Technical;Pending;;Open
+2025-05-18;brandon.jacobs@bank.co.za;ACC90443337;Call;Client;Onboarding;Escalated;30,5;No
+2025-09-25;lerato.naidoo@bank.co.za;ACC92814320;Email;Other;Account Maintenance;Resolved;14,6;Yes
+2025-05-26;zanele.mabaso@bank.co.za;ACC60525215;Email;Relationship Banker;Technical;Resolved;4,5;Yes
+2025-11-08;zanele.mabaso@bank.co.za;ACC27190781;Email;Client;Technical;Escalated;65,5;No
+2025-08-27;naledi.maseko@bank.co.za;ACC64736462;Call;Other;Payments;Transfer to Different Dept;12,1;Yes
+2025-01-15;lerato.naidoo@bank.co.za;ACC45716684;Call;Relationship Banker;Technical;Escalated;48,5;No
+2025-07-25;thabo.mokoena@bank.co.za;ACC11842650;Email;Relationship Banker;Digital Banking;Resolved;7,2;Yes
+2025-08-25;amanda.dlamini@bank.co.za;ACC26987291;Call;Other;Payments;Resolved;9;Yes
+2025-11-14;keketso.sangweni@bank.co.za;ACC91622316;Call;Client;Payments;Resolved;14,5;Yes
+2025-11-12;sibusiso.khanyile@bank.co.za;ACC67813047;Call;Other;Payments;Escalated;48,9;No
+2025-07-01;amanda.dlamini@bank.co.za;ACC88268749;Call;Client;Digital Banking;Resolved;6,7;Yes
+2025-07-26;lerato.naidoo@bank.co.za;ACC67392878;Email;Client;Payments;Resolved;6,6;Yes
+2025-04-18;thabo.mokoena@bank.co.za;ACC28079630;Call;Other;Digital Banking;Resolved;15,3;Yes
+2025-04-14;naledi.maseko@bank.co.za;ACC15118458;Call;Relationship Banker;Technical;Escalated;28,5;No
+2025-01-17;naledi.maseko@bank.co.za;ACC62311405;Call;Relationship Banker;Technical;Resolved;23,1;Yes
+2025-11-18;thabo.mokoena@bank.co.za;ACC51477610;Call;Other;Payments;Resolved;11,3;Yes
+2025-02-06;lerato.naidoo@bank.co.za;ACC72625633;Call;Client;Payments;Resolved;11,7;Yes
+2025-01-28;lerato.naidoo@bank.co.za;ACC80121825;Call;Client;Digital Banking;Resolved;15,4;Yes
+2025-05-17;thabo.mokoena@bank.co.za;ACC23044660;Email;Other;Digital Banking;Resolved;5,6;Yes
+2025-02-18;keketso.sangweni@bank.co.za;ACC14003665;Call;Client;Account Maintenance;Resolved;16,7;Yes
+2025-08-02;thabo.mokoena@bank.co.za;ACC40921265;Call;Other;Onboarding;Resolved;21,3;Yes
+2025-01-21;keketso.sangweni@bank.co.za;ACC78969004;Call;Client;Payments;Resolved;23;Yes
+2025-12-31;keketso.sangweni@bank.co.za;ACC78114293;Email;Relationship Banker;Onboarding;Resolved;2,8;Yes
+2025-09-16;naledi.maseko@bank.co.za;ACC26776366;Email;Relationship Banker;Technical;Escalated;49,7;No
+2025-11-01;lerato.naidoo@bank.co.za;ACC74465924;Email;Relationship Banker;Onboarding;Transfer to Different Dept;32,4;No
+2025-08-10;brandon.jacobs@bank.co.za;ACC17794984;Call;Other;Account Maintenance;Resolved;11,7;Yes
+2025-06-23;amanda.dlamini@bank.co.za;ACC27309898;Call;Relationship Banker;Payments;Transfer to Different Dept;17,1;Yes
+2025-03-11;zanele.mabaso@bank.co.za;ACC56279408;Email;Client;Digital Banking;Escalated;48,6;No
+2025-08-21;sibusiso.khanyile@bank.co.za;ACC17706590;Email;Relationship Banker;Payments;Resolved;5,1;Yes
+2025-01-01;naledi.maseko@bank.co.za;ACC17769199;Call;Relationship Banker;Payments;Resolved;15,2;Yes
+2025-01-28;keketso.sangweni@bank.co.za;ACC69354225;Call;Relationship Banker;Account Maintenance;Resolved;18,6;Yes
+2025-01-07;sibusiso.khanyile@bank.co.za;ACC55950877;Call;Other;Onboarding;Resolved;13,5;Yes
+2025-11-12;zanele.mabaso@bank.co.za;ACC58165154;Email;Relationship Banker;Onboarding;Resolved;14,6;Yes
+2025-08-27;zanele.mabaso@bank.co.za;ACC75785311;Email;Client;Technical;Resolved;6,5;Yes
+2025-01-09;keketso.sangweni@bank.co.za;ACC96476223;Call;Relationship Banker;Onboarding;Resolved;21,4;Yes
+2025-02-27;sibusiso.khanyile@bank.co.za;ACC58053853;Call;Client;Payments;Resolved;22,6;Yes
+2025-03-08;keketso.sangweni@bank.co.za;ACC63728415;Call;Client;Technical;Transfer to Different Dept;29,3;No
+2025-01-10;lerato.naidoo@bank.co.za;ACC91515795;Email;Client;Payments;Escalated;58,7;No
+2025-03-16;amanda.dlamini@bank.co.za;ACC76964461;Call;Relationship Banker;Technical;Transfer to Different Dept;42,1;No
+2025-01-22;sibusiso.khanyile@bank.co.za;ACC57595954;Email;Relationship Banker;Payments;Resolved;13,2;Yes
+2025-01-29;naledi.maseko@bank.co.za;ACC87190776;Call;Relationship Banker;Onboarding;Transfer to Different Dept;26,2;No
+2025-03-22;keketso.sangweni@bank.co.za;ACC50970048;Email;Relationship Banker;Technical;Resolved;15,5;Yes
+2025-06-30;zanele.mabaso@bank.co.za;ACC94086993;Call;Other;Onboarding;Pending;;Open
+2025-09-08;lerato.naidoo@bank.co.za;ACC16493553;Email;Relationship Banker;Account Maintenance;Resolved;5,2;Yes
+2025-06-14;amanda.dlamini@bank.co.za;ACC73206359;Email;Relationship Banker;Technical;Resolved;10,3;Yes
+2025-06-19;naledi.maseko@bank.co.za;ACC51702136;Call;Other;Payments;Resolved;3,9;Yes
+2025-10-03;zanele.mabaso@bank.co.za;ACC15766052;Email;Other;Onboarding;Resolved;12,4;Yes
+2025-07-09;amanda.dlamini@bank.co.za;ACC14935512;Call;Relationship Banker;Digital Banking;Pending;;Open
+2025-06-04;thabo.mokoena@bank.co.za;ACC86812879;Call;Relationship Banker;Digital Banking;Resolved;14,9;Yes
+2025-10-14;sibusiso.khanyile@bank.co.za;ACC43979320;Email;Client;Onboarding;Resolved;4,3;Yes
+2025-12-20;naledi.maseko@bank.co.za;ACC32661849;Email;Other;Onboarding;Resolved;7;Yes
+2025-04-26;lerato.naidoo@bank.co.za;ACC45960861;Email;Other;Payments;Resolved;16,2;Yes
+2025-04-08;naledi.maseko@bank.co.za;ACC80719420;Call;Client;Onboarding;Resolved;11,9;Yes
+2025-12-16;zanele.mabaso@bank.co.za;ACC88672146;Call;Other;Account Maintenance;Pending;;Open
+2025-03-10;sibusiso.khanyile@bank.co.za;ACC39516280;Email;Client;Payments;Resolved;8,7;Yes
+2025-01-11;naledi.maseko@bank.co.za;ACC58851607;Call;Client;Technical;Resolved;12,3;Yes
+2025-12-19;lerato.naidoo@bank.co.za;ACC48012464;Call;Client;Account Maintenance;Resolved;7,4;Yes
+2025-06-30;lerato.naidoo@bank.co.za;ACC70776316;Call;Relationship Banker;Onboarding;Pending;;Open
+2025-09-12;keketso.sangweni@bank.co.za;ACC18020036;Call;Other;Technical;Resolved;1,6;Yes
+2025-02-19;keketso.sangweni@bank.co.za;ACC22009568;Call;Relationship Banker;Technical;Transfer to Different Dept;37,4;No
+2025-08-22;lerato.naidoo@bank.co.za;ACC86334253;Call;Client;Technical;Resolved;3,5;Yes
+2025-03-08;zanele.mabaso@bank.co.za;ACC19987184;Call;Client;Digital Banking;Resolved;16,9;Yes
+2025-10-01;amanda.dlamini@bank.co.za;ACC41983438;Call;Relationship Banker;Technical;Resolved;14,4;Yes
+2025-11-04;zanele.mabaso@bank.co.za;ACC39597872;Call;Client;Payments;Resolved;22,6;Yes
+2025-11-25;lerato.naidoo@bank.co.za;ACC72763128;Call;Client;Payments;Resolved;22,1;Yes
+2025-03-10;sibusiso.khanyile@bank.co.za;ACC50357591;Call;Other;Technical;Resolved;7,1;Yes
+2025-10-19;amanda.dlamini@bank.co.za;ACC42940515;Call;Client;Technical;Transfer to Different Dept;17,2;Yes
+2025-09-19;brandon.jacobs@bank.co.za;ACC31736473;Email;Client;Technical;Escalated;68,8;No
+2025-01-28;sibusiso.khanyile@bank.co.za;ACC17944003;Email;Relationship Banker;Account Maintenance;Resolved;5,1;Yes
+2025-10-30;lerato.naidoo@bank.co.za;ACC98947743;Email;Client;Payments;Resolved;7,4;Yes
+2025-06-11;thabo.mokoena@bank.co.za;ACC10491111;Email;Relationship Banker;Technical;Resolved;7,4;Yes
+2025-09-23;keketso.sangweni@bank.co.za;ACC31980220;Email;Relationship Banker;Technical;Transfer to Different Dept;48;No
+2025-11-12;amanda.dlamini@bank.co.za;ACC19138203;Email;Relationship Banker;Account Maintenance;Resolved;6,6;Yes
+2025-01-20;sibusiso.khanyile@bank.co.za;ACC57944405;Call;Client;Payments;Resolved;23,8;Yes
+2025-08-17;brandon.jacobs@bank.co.za;ACC85360456;Email;Other;Payments;Escalated;50,4;No
+2025-05-08;amanda.dlamini@bank.co.za;ACC75826694;Call;Relationship Banker;Technical;Resolved;21,4;Yes
+2025-04-13;lerato.naidoo@bank.co.za;ACC97654128;Call;Client;Account Maintenance;Resolved;13,4;Yes
+2025-11-06;amanda.dlamini@bank.co.za;ACC87773500;Call;Relationship Banker;Onboarding;Resolved;5,2;Yes
+2025-11-04;brandon.jacobs@bank.co.za;ACC20589724;Email;Client;Technical;Resolved;12,1;Yes
+2025-02-02;amanda.dlamini@bank.co.za;ACC99871603;Call;Other;Account Maintenance;Escalated;37;No
+2025-01-23;naledi.maseko@bank.co.za;ACC57087644;Call;Relationship Banker;Technical;Resolved;16,5;Yes
+2025-03-16;keketso.sangweni@bank.co.za;ACC29620215;Call;Client;Technical;Resolved;7,7;Yes
+2025-10-27;brandon.jacobs@bank.co.za;ACC96873841;Call;Other;Onboarding;Resolved;9;Yes
+2025-04-19;keketso.sangweni@bank.co.za;ACC54977623;Call;Relationship Banker;Onboarding;Resolved;12,8;Yes
+2025-09-21;naledi.maseko@bank.co.za;ACC72746343;Email;Other;Payments;Resolved;9,5;Yes
+2025-07-09;thabo.mokoena@bank.co.za;ACC39771334;Email;Other;Onboarding;Resolved;15,1;Yes
+2025-12-03;lerato.naidoo@bank.co.za;ACC26828975;Email;Relationship Banker;Onboarding;Resolved;1,8;Yes
+2025-12-02;sibusiso.khanyile@bank.co.za;ACC79250867;Call;Other;Technical;Resolved;13,7;Yes
+2025-02-17;amanda.dlamini@bank.co.za;ACC24707799;Call;Relationship Banker;Onboarding;Transfer to Different Dept;43,3;No
+2025-08-17;brandon.jacobs@bank.co.za;ACC62114624;Call;Client;Account Maintenance;Resolved;13,1;Yes
+2025-11-05;zanele.mabaso@bank.co.za;ACC36875720;Email;Client;Account Maintenance;Resolved;15,1;Yes
+2025-12-06;amanda.dlamini@bank.co.za;ACC80309223;Call;Other;Account Maintenance;Escalated;37,7;No
+2025-02-05;brandon.jacobs@bank.co.za;ACC23123559;Email;Relationship Banker;Onboarding;Resolved;2,7;Yes
+2025-09-24;lerato.naidoo@bank.co.za;ACC58634273;Email;Other;Payments;Transfer to Different Dept;39,5;No
+2025-10-25;sibusiso.khanyile@bank.co.za;ACC99610716;Call;Client;Payments;Resolved;20;Yes
+2025-07-10;zanele.mabaso@bank.co.za;ACC60453458;Call;Other;Account Maintenance;Resolved;4,4;Yes
+2025-10-19;zanele.mabaso@bank.co.za;ACC43602163;Email;Relationship Banker;Payments;Resolved;21,6;Yes
+2025-07-09;sibusiso.khanyile@bank.co.za;ACC52537677;Call;Client;Payments;Resolved;8;Yes
+2025-10-18;lerato.naidoo@bank.co.za;ACC30109768;Email;Relationship Banker;Onboarding;Resolved;22,8;Yes
+2025-07-27;keketso.sangweni@bank.co.za;ACC94745582;Call;Other;Account Maintenance;Resolved;6,5;Yes
+2025-01-26;thabo.mokoena@bank.co.za;ACC17175928;Call;Client;Payments;Resolved;22,5;Yes
+2025-02-09;keketso.sangweni@bank.co.za;ACC56839533;Email;Client;Onboarding;Resolved;6,4;Yes
+2025-11-24;thabo.mokoena@bank.co.za;ACC34497905;Call;Client;Account Maintenance;Resolved;2,1;Yes
+2025-11-17;amanda.dlamini@bank.co.za;ACC85871369;Email;Relationship Banker;Payments;Resolved;7,6;Yes
+2025-03-23;naledi.maseko@bank.co.za;ACC64304774;Email;Relationship Banker;Payments;Transfer to Different Dept;37,2;No
+2025-06-04;keketso.sangweni@bank.co.za;ACC42103103;Call;Relationship Banker;Digital Banking;Transfer to Different Dept;16;Yes
+2025-05-30;sibusiso.khanyile@bank.co.za;ACC60281776;Call;Client;Account Maintenance;Escalated;58,5;No
+2025-02-17;amanda.dlamini@bank.co.za;ACC51524396;Email;Relationship Banker;Payments;Resolved;4,5;Yes
+2025-06-12;naledi.maseko@bank.co.za;ACC37029342;Email;Relationship Banker;Payments;Resolved;16,7;Yes
+2025-01-03;brandon.jacobs@bank.co.za;ACC92453863;Call;Relationship Banker;Onboarding;Resolved;1,7;Yes
+2025-07-02;sibusiso.khanyile@bank.co.za;ACC90821695;Call;Other;Payments;Resolved;7,3;Yes
+2025-11-21;lerato.naidoo@bank.co.za;ACC71324923;Email;Client;Onboarding;Resolved;23,8;Yes
+2025-02-09;keketso.sangweni@bank.co.za;ACC21832281;Call;Client;Payments;Pending;;Open
+2025-05-11;amanda.dlamini@bank.co.za;ACC59755525;Email;Client;Payments;Resolved;11,6;Yes
+2025-03-24;thabo.mokoena@bank.co.za;ACC63582209;Call;Other;Digital Banking;Resolved;17,3;Yes
+2025-06-09;lerato.naidoo@bank.co.za;ACC23333539;Email;Client;Account Maintenance;Transfer to Different Dept;14,5;Yes
+2025-02-02;sibusiso.khanyile@bank.co.za;ACC44168898;Call;Other;Payments;Transfer to Different Dept;46,2;No
+2025-08-13;lerato.naidoo@bank.co.za;ACC46553170;Call;Relationship Banker;Account Maintenance;Resolved;4,2;Yes
+2025-03-27;zanele.mabaso@bank.co.za;ACC10968793;Call;Other;Payments;Resolved;9,2;Yes
+2025-04-30;sibusiso.khanyile@bank.co.za;ACC38467410;Call;Client;Payments;Resolved;6,5;Yes
+2025-01-30;naledi.maseko@bank.co.za;ACC27578032;Call;Client;Technical;Resolved;17,7;Yes
+2025-10-27;brandon.jacobs@bank.co.za;ACC15407915;Call;Client;Technical;Resolved;20,3;Yes
+2025-03-14;brandon.jacobs@bank.co.za;ACC65942796;Email;Client;Payments;Transfer to Different Dept;26;No
+2025-04-14;lerato.naidoo@bank.co.za;ACC80321752;Call;Relationship Banker;Payments;Resolved;6,2;Yes
+2025-12-18;amanda.dlamini@bank.co.za;ACC94133004;Call;Other;Digital Banking;Resolved;18,6;Yes
+2025-12-24;naledi.maseko@bank.co.za;ACC43471988;Call;Relationship Banker;Technical;Transfer to Different Dept;25,2;No
+2025-05-30;zanele.mabaso@bank.co.za;ACC84564677;Email;Other;Account Maintenance;Resolved;9,5;Yes
+2025-07-04;brandon.jacobs@bank.co.za;ACC30917375;Call;Relationship Banker;Account Maintenance;Pending;;Open
+2025-04-29;naledi.maseko@bank.co.za;ACC57764413;Email;Client;Technical;Resolved;11,1;Yes
+2025-02-04;lerato.naidoo@bank.co.za;ACC39264493;Email;Relationship Banker;Payments;Resolved;20,8;Yes
+2025-04-08;zanele.mabaso@bank.co.za;ACC11043538;Call;Other;Payments;Resolved;10,9;Yes
+2025-04-25;amanda.dlamini@bank.co.za;ACC56566122;Call;Client;Account Maintenance;Resolved;20,9;Yes
+2025-07-07;zanele.mabaso@bank.co.za;ACC79042506;Email;Client;Account Maintenance;Pending;;Open
+2025-07-11;amanda.dlamini@bank.co.za;ACC99771778;Call;Client;Technical;Resolved;23,2;Yes
+2025-09-26;brandon.jacobs@bank.co.za;ACC59435274;Call;Relationship Banker;Technical;Resolved;18,8;Yes
+2025-10-22;thabo.mokoena@bank.co.za;ACC16839761;Call;Other;Payments;Resolved;23,1;Yes
+2025-10-19;amanda.dlamini@bank.co.za;ACC60993638;Call;Other;Technical;Escalated;48,6;No
+2025-05-09;keketso.sangweni@bank.co.za;ACC27781824;Call;Other;Payments;Resolved;10,5;Yes
+2025-08-02;keketso.sangweni@bank.co.za;ACC31208385;Call;Client;Payments;Escalated;66,6;No
+2025-02-20;amanda.dlamini@bank.co.za;ACC54365281;Call;Client;Account Maintenance;Escalated;36,2;No
+2025-08-26;brandon.jacobs@bank.co.za;ACC78806404;Call;Other;Technical;Resolved;3,6;Yes
+2025-11-25;lerato.naidoo@bank.co.za;ACC53751045;Call;Relationship Banker;Digital Banking;Resolved;18,5;Yes
+2025-12-01;thabo.mokoena@bank.co.za;ACC55760331;Call;Relationship Banker;Onboarding;Transfer to Different Dept;23,9;Yes
+2025-02-21;sibusiso.khanyile@bank.co.za;ACC54635215;Call;Other;Payments;Resolved;21,6;Yes
+2025-04-10;thabo.mokoena@bank.co.za;ACC50055133;Call;Client;Technical;Resolved;22,3;Yes
+2025-07-31;naledi.maseko@bank.co.za;ACC39066744;Call;Relationship Banker;Payments;Resolved;6,5;Yes
+2025-01-01;brandon.jacobs@bank.co.za;ACC86059530;Email;Client;Account Maintenance;Resolved;19,1;Yes
+2025-02-18;amanda.dlamini@bank.co.za;ACC60782514;Call;Relationship Banker;Digital Banking;Resolved;17,7;Yes
+2025-09-21;sibusiso.khanyile@bank.co.za;ACC70600264;Call;Other;Payments;Resolved;12,7;Yes
+2025-05-04;lerato.naidoo@bank.co.za;ACC54757476;Email;Client;Technical;Transfer to Different Dept;33,4;No
+2025-05-21;amanda.dlamini@bank.co.za;ACC59444489;Call;Other;Account Maintenance;Resolved;10,2;Yes
+2025-01-12;thabo.mokoena@bank.co.za;ACC66199356;Call;Other;Digital Banking;Escalated;57,5;No
+2025-12-27;zanele.mabaso@bank.co.za;ACC24049453;Email;Other;Payments;Resolved;2,5;Yes
+2025-02-23;brandon.jacobs@bank.co.za;ACC26441746;Email;Other;Payments;Resolved;17,2;Yes
+2025-06-09;amanda.dlamini@bank.co.za;ACC65101803;Email;Other;Payments;Resolved;5;Yes
+2025-11-10;brandon.jacobs@bank.co.za;ACC49182364;Call;Client;Technical;Resolved;14,3;Yes
+2025-06-29;zanele.mabaso@bank.co.za;ACC51582698;Call;Client;Technical;Escalated;58,7;No
+2025-12-06;amanda.dlamini@bank.co.za;ACC55457953;Call;Relationship Banker;Account Maintenance;Escalated;49,1;No
+2025-08-25;amanda.dlamini@bank.co.za;ACC79845142;Call;Other;Technical;Transfer to Different Dept;19,2;Yes
+2025-10-10;thabo.mokoena@bank.co.za;ACC71667188;Email;Other;Account Maintenance;Resolved;2,6;Yes
+2025-07-25;lerato.naidoo@bank.co.za;ACC36836734;Call;Relationship Banker;Payments;Resolved;14,2;Yes
+2025-07-07;naledi.maseko@bank.co.za;ACC61089925;Call;Other;Digital Banking;Transfer to Different Dept;12,4;Yes
+2025-10-16;sibusiso.khanyile@bank.co.za;ACC45421829;Call;Relationship Banker;Payments;Escalated;45;No
+2025-12-31;brandon.jacobs@bank.co.za;ACC42828774;Call;Other;Account Maintenance;Transfer to Different Dept;13,7;Yes
+2025-03-12;thabo.mokoena@bank.co.za;ACC69773156;Call;Relationship Banker;Payments;Resolved;9,8;Yes
+2025-06-25;naledi.maseko@bank.co.za;ACC46674095;Call;Relationship Banker;Payments;Transfer to Different Dept;26,9;No
+2025-06-07;naledi.maseko@bank.co.za;ACC48726376;Email;Relationship Banker;Payments;Resolved;3,4;Yes
+2025-01-06;keketso.sangweni@bank.co.za;ACC29697649;Call;Relationship Banker;Payments;Resolved;11,8;Yes
+2025-05-26;zanele.mabaso@bank.co.za;ACC22447362;Call;Relationship Banker;Onboarding;Escalated;41,6;No
+2025-06-30;zanele.mabaso@bank.co.za;ACC63800781;Email;Client;Payments;Resolved;12,8;Yes
+2025-07-15;keketso.sangweni@bank.co.za;ACC83828124;Call;Other;Digital Banking;Resolved;23,5;Yes
+2025-04-03;lerato.naidoo@bank.co.za;ACC64342484;Email;Relationship Banker;Technical;Resolved;16,5;Yes
+2025-07-25;amanda.dlamini@bank.co.za;ACC23262613;Call;Client;Payments;Resolved;11,8;Yes
+2025-11-21;zanele.mabaso@bank.co.za;ACC36506287;Call;Relationship Banker;Onboarding;Escalated;36;No
+2025-04-06;brandon.jacobs@bank.co.za;ACC25127240;Call;Client;Onboarding;Escalated;27,1;No
+2025-10-28;lerato.naidoo@bank.co.za;ACC17003978;Call;Relationship Banker;Technical;Resolved;13,7;Yes
+2025-07-10;brandon.jacobs@bank.co.za;ACC30036804;Email;Relationship Banker;Onboarding;Resolved;11,4;Yes
+2025-09-18;lerato.naidoo@bank.co.za;ACC33674670;Call;Relationship Banker;Digital Banking;Resolved;10;Yes
+2025-11-06;thabo.mokoena@bank.co.za;ACC58575880;Call;Relationship Banker;Account Maintenance;Resolved;17,5;Yes
+2025-09-15;sibusiso.khanyile@bank.co.za;ACC34335990;Call;Relationship Banker;Payments;Escalated;71,9;No
+2025-12-23;zanele.mabaso@bank.co.za;ACC99329502;Email;Client;Onboarding;Escalated;41,9;No
+2025-03-31;sibusiso.khanyile@bank.co.za;ACC83407789;Call;Other;Payments;Resolved;3,4;Yes
+2025-05-24;naledi.maseko@bank.co.za;ACC99993078;Email;Relationship Banker;Onboarding;Transfer to Different Dept;45,7;No
+2025-06-07;naledi.maseko@bank.co.za;ACC57312048;Email;Other;Technical;Resolved;5,1;Yes
+2025-12-03;brandon.jacobs@bank.co.za;ACC95381776;Email;Relationship Banker;Payments;Transfer to Different Dept;25,8;No
+2025-04-09;thabo.mokoena@bank.co.za;ACC65820661;Call;Other;Technical;Pending;;Open
+2025-11-13;brandon.jacobs@bank.co.za;ACC95036366;Call;Client;Payments;Resolved;9,8;Yes
+2025-08-19;thabo.mokoena@bank.co.za;ACC56048894;Call;Other;Onboarding;Resolved;11,2;Yes
+2025-07-23;keketso.sangweni@bank.co.za;ACC99980056;Call;Relationship Banker;Technical;Pending;;Open
+2025-04-08;keketso.sangweni@bank.co.za;ACC61878086;Email;Other;Technical;Resolved;4,6;Yes
+2025-02-21;amanda.dlamini@bank.co.za;ACC38390089;Call;Relationship Banker;Technical;Resolved;11,7;Yes
+2025-10-01;naledi.maseko@bank.co.za;ACC66594419;Email;Client;Payments;Resolved;16;Yes
+2025-06-21;zanele.mabaso@bank.co.za;ACC14063262;Call;Other;Payments;Resolved;14,2;Yes
+2025-03-07;brandon.jacobs@bank.co.za;ACC43203661;Email;Other;Payments;Resolved;17,8;Yes
